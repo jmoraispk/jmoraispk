@@ -22,15 +22,13 @@ Hi! 👋 I am a fourth-year PhD student in the Wireless Intelligence Lab at Ariz
 
 ## 🔗 Links
 [![Web](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://jmoraispk.github.io/)
-[![Email](https://img.shields.io/badge/Email%20-joao@asu.edu-blue?style=for-the-badge)](mailto:joao@asu.edu)
+[![Email](https://img.shields.io/badge/Email-joao@asu.edu-blue?style=for-the-badge)](mailto:joao@asu.edu)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
 
 ## 🔧 Projects
-
 - **[DeepSense6G](https://www.deepsense6g.net/)**  
   DeepSense is a large-scale real-world multi-modal sensing and communication dataset for 6G deep learning research. 
-
   [![Code](https://img.shields.io/badge/Code-GitHub-purple)](https://github.com/DeepSense6G) [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://www.deepsense6g.net/)
 
 - **[DeepMIMO](https://www.deepmimo.net/)**  
@@ -38,7 +36,6 @@ Hi! 👋 I am a fourth-year PhD student in the Wireless Intelligence Lab at Ariz
   [![Code](https://img.shields.io/badge/Code-GitHub-purple)](https://github.com/deepmimo) [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://www.deepmimo.net/)
 
 ---
-
 
 ## 📚 Publications
 
