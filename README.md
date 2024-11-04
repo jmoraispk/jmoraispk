@@ -22,10 +22,7 @@ Hi! 👋 I am a fourth-year PhD student in the Wireless Intelligence Lab at Ariz
 
 ## 🔗 Links
 [![Website](https://img.shields.io/badge/Website-Visit%20Me-blue?style=for-the-badge)](https://jmoraispk.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge)](https://www.linkedin.com/in/joao-de-morais)
 [![Email Me](https://img.shields.io/badge/Email%20Me-joao@asu.edu-blue?style=for-the-badge)](mailto:joao@asu.edu)
-[![Scholar](https://img.shields.io/badge/Scholar-My%20Profile-9cf?style=for-the-badge)](https://scholar.google.com/citations?user=U1wB3rsAAAAJ&hl=en)
-
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
 
