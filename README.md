@@ -7,6 +7,7 @@ Hi! 👋 I am a fourth-year PhD student in the Wireless Intelligence Lab at Ariz
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmoraispk&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff)
 
+[![João's GitHub stats](https://github-readme-stats-lic9-8jp1bbpi8-jmoraispks-projects.vercel.app/api?username=jmoraispk)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmoraispk&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
