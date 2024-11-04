@@ -3,13 +3,8 @@
 
 Hi! 👋 I am a fourth-year PhD student in the Wireless Intelligence Lab at Arizona State University  under the supervision of Prof. Ahmed Alkhateeb. Before joining the WI-LAB at ASU, I did a BSc and MSc in Electrical and Computer Engineering, both at Instituto Superior Técnico, University of Lisbon. That time included a 6-month Erasmus Exchange Program at TU Delft  and a subsequent 9-month visit to TNO  for my MSc thesis with Prof. Remco Litjens, focusing on how 5G PHY and MAC layer configurations impact QoS in VR meetings. Currently, I am interning with the 6G RAN team at NVIDIA, integrating machine learning in the AERIAL Omniverse Digital Twin.
 
-## GitHub Stats and Languages 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmoraispk&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff)
-
+## GitHub Stats
 [![João's GitHub stats](https://github-readme-stats-lic9.vercel.app/api?username=jmoraispk&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Languages](https://github-readme-stats-lic9.vercel.app/api/top-langs/?username=jmoraispk&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ### Programming & Tools
 Languages: ![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python) ![C++](https://img.shields.io/badge/C++-11-00599C?style=for-the-badge&logo=c%2B%2B)
