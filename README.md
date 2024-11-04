@@ -7,28 +7,25 @@ Hi! 👋 I am a fourth-year PhD student in the Wireless Intelligence Lab at Ariz
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmoraispk&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff)
 
-[![João's GitHub stats](https://github-readme-stats-lic9.vercel.app/api?username=jmoraispk)](https://github.com/anuraghazra/github-readme-stats)
+[![João's GitHub stats](https://github-readme-stats-lic9.vercel.app/api?username=jmoraispk&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmoraispk&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-
-## Stats and Badges
-![Total Stars](https://img.shields.io/badge/Total%20Stars-32-brightgreen?style=for-the-badge)
-![Commits](https://img.shields.io/badge/Commits-1,100-blue?style=for-the-badge)
-![PRs](https://img.shields.io/badge/PRs-32-blueviolet?style=for-the-badge)
-![Issues](https://img.shields.io/badge/Issues-29-important?style=for-the-badge)
-![Contributors](https://img.shields.io/badge/Contributors-25-orange?style=for-the-badge)
+![Top Languages](https://github-readme-stats-lic9.vercel.app/api/top-langs/?username=jmoraispk&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ### Programming Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-11-00599C?style=for-the-badge&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Spyder](https://img.shields.io/badge/Spyder-0C7B38?style=for-the-badge&logo=spyder)
+![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### Python Libraries
+## 🐍 Python Libraries
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib)
@@ -37,14 +34,21 @@ Hi! 👋 I am a fourth-year PhD student in the Wireless Intelligence Lab at Ariz
 ![PyTorch](https://img.shields.io/badge/TensorFlow-FF6F20?style=for-the-badge&logo=tensorflow)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=for-the-badge&logo=tensorflow)
 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-
-### Social Media & Website 
+## 🔗 Links
 [![Website](https://img.shields.io/badge/Website-Visit%20Me-blue?style=for-the-badge)](https://jmoraispk.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge)](https://www.linkedin.com/in/joao-de-morais)
 [![Email Me](https://img.shields.io/badge/Email%20Me-joao@asu.edu-blue?style=for-the-badge)](mailto:joao@asu.edu)
 [![Scholar](https://img.shields.io/badge/Scholar-My%20Profile-9cf?style=for-the-badge)](https://scholar.google.com/citations?user=U1wB3rsAAAAJ&hl=en)
 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
 
 ## 🔧 Projects
 
@@ -60,7 +64,7 @@ Hi! 👋 I am a fourth-year PhD student in the Wireless Intelligence Lab at Ariz
 ---
 
 
-## 📚  Publications
+## 📚 Publications
 
 - **[DeepSense-V2V: A Vehicle-to-Vehicle Multi-Modal Sensing, Localization, and Communications Dataset](https://mcrespo.me/publications/nlos-scattering-media/)**  
   *João Morais, Gouranga Charan, Nikhil Srinivas, and Ahmed Alkhateeb*  
