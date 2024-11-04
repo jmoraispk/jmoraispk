@@ -28,11 +28,13 @@ Hi! 👋 I am a fourth-year PhD student in the Wireless Intelligence Lab at Ariz
 
 ## 🔧 Projects
 - **[DeepSense6G](https://www.deepsense6g.net/)**  
-  DeepSense is a large-scale real-world multi-modal sensing and communication dataset for 6G deep learning research. 
+  DeepSense is a large-scale real-world multi-modal sensing and communication dataset for 6G deep learning research.
+  
   [![Code](https://img.shields.io/badge/Code-GitHub-purple)](https://github.com/DeepSense6G) [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://www.deepsense6g.net/)
 
 - **[DeepMIMO](https://www.deepmimo.net/)**  
-  DeepMIMO is a dataset generation framework for deep learning in wireless communication, offering realistic ray-tracing-based channel data for tasks like beamforming and localization.  
+  DeepMIMO is a dataset generation framework for deep learning in wireless communication, offering realistic ray-tracing-based channel data for tasks like beamforming and localization.
+  
   [![Code](https://img.shields.io/badge/Code-GitHub-purple)](https://github.com/deepmimo) [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://www.deepmimo.net/)
 
 ---
