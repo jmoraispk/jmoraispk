@@ -4,8 +4,7 @@
 Hi! 👋 I am a fourth-year PhD student in the Wireless Intelligence Lab at Arizona State University  under the supervision of Prof. Ahmed Alkhateeb. Before joining the WI-LAB at ASU, I did a BSc and MSc in Electrical and Computer Engineering, both at Instituto Superior Técnico, University of Lisbon. That time included a 6-month Erasmus Exchange Program at TU Delft  and a subsequent 9-month visit to TNO  for my MSc thesis with Prof. Remco Litjens, focusing on how 5G PHY and MAC layer configurations impact QoS in VR meetings. Currently, I am interning with the 6G RAN team at NVIDIA, integrating machine learning in the AERIAL Omniverse Digital Twin.
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-lic9.vercel.app/api?username=jmoraispk&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="João's GitHub Stats" width="450"> </a>
+  <img src="https://github-readme-stats-lic9.vercel.app/api?username=jmoraispk&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="João's GitHub Stats" width="450">
 </div>
 
 ## 💻 Programming & Tools
@@ -39,8 +38,6 @@ Hi! 👋 I am a fourth-year PhD student in the Wireless Intelligence Lab at Ariz
   DeepMIMO is a dataset generation framework for deep learning in wireless communication, offering realistic ray-tracing-based channel data for tasks like beamforming and localization.
   
   [![Code](https://img.shields.io/badge/Code-GitHub-purple)](https://github.com/deepmimo) [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://www.deepmimo.net/)
-
----
 
 ## 📚 Publications
 
