@@ -9,7 +9,7 @@ Hi! 👋 I am a fourth-year PhD student in the Wireless Intelligence Lab at Ariz
 </div>
 
 ## 💻 Programming & Tools
-![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python) ![C++](https://img.shields.io/badge/C++-11-00599C?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python) ![C++](https://img.shields.io/badge/C++-11-00599C?style=for-the-badge&logo=c%2B%2B)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code) ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
