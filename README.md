@@ -1,4 +1,5 @@
 # João Morais
+
 [//]: # ![Git Banner](intro_joao.gif)
 
 Hi! 👋 I am a fourth-year PhD student in the Wireless Intelligence Lab at Arizona State University  under the supervision of Prof. Ahmed Alkhateeb. Before joining the WI-LAB at ASU, I did a BSc and MSc in Electrical and Computer Engineering, both at Instituto Superior Técnico, University of Lisbon. That time included a 6-month Erasmus Exchange Program at TU Delft  and a subsequent 9-month visit to TNO  for my MSc thesis with Prof. Remco Litjens, focusing on how 5G PHY and MAC layer configurations impact QoS in VR meetings. Currently, I am interning with the 6G RAN team at NVIDIA, integrating machine learning in the AERIAL Omniverse Digital Twin.
