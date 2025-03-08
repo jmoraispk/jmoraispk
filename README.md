@@ -9,9 +9,12 @@ Hi! 👋 I am a fourth-year PhD student in the [Wireless Intelligence Lab](https
 </div>
 
 ## 💻 Programming & Tools
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python) ![C++](https://img.shields.io/badge/C++-11-00599C?style=for-the-badge&logo=c%2B%2B)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code) ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-11-00599C?style=for-the-badge&logo=c%2B%2B)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 
 ## 🐍 Python Libraries
@@ -31,18 +34,17 @@ Hi! 👋 I am a fourth-year PhD student in the [Wireless Intelligence Lab](https
 
 ## 🔧 Projects
 
-- **[DeepMIMO](https://www.deepmimo.net/)**  
-  *DeepMIMO is the standard for ray tracing datasets in wireless.*
+- **[DeepMIMO](https://www.deepmimo.net/)**: *The standard for ray tracing datasets in wireless.*
   - Expanded the scope 10x
   - Wrote version 4 (current) from scratch
-  - Leading development (+ website design) since Nov 2024
+  - Leading development & website design since Nov 2024
   
   [![Code](https://img.shields.io/badge/Code-GitHub-purple)](https://github.com/deepmimo) [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://www.deepmimo.net/)
 
-- **[DeepSense6G](https://www.deepsense6g.net/)**  
-  *DeepSense is a large-scale, real-world, multi-modal sensing and communication dataset for 6G deep learning research.*
-  - Wrote the end-to-end software package: sensor capture, post-processing, synchronization, and a high-performance UI for data analysis and visualization (used in scenario videos)
-  - Built the hardware testbed to collect and process scenarios 36-39 (Vehicle-to-Vehicle) and 41 (Distributed Sensing)
+- **[DeepSense6G](https://www.deepsense6g.net/)**: *A real-world multi-modal sensing and communication dataset.*
+  - Wrote the end-to-end software package: sensor capture, post-processing and synchronization
+  - Made a high-performance UI for data analysis and visualization - used to make +40 scenario videos
+  - Built the hardware testbed and collected scenarios 36-39 (Vehicle-to-Vehicle) and 41 (Distributed Sensing)
   
   [![Code](https://img.shields.io/badge/Code-GitHub-purple)](https://github.com/DeepSense6G) [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://www.deepsense6g.net/)
 
