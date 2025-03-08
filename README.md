@@ -2,7 +2,7 @@
 
 <!-- ![Git Banner](intro_joao.gif) -->
 
-Hi! 👋 I am a fourth-year PhD student in the [Wireless Intelligence Lab](https://wi-lab.net/) at Arizona State University advised by Prof. Ahmed Alkhateeb. Before joining the WI-LAB at ASU, I did a BSc and MSc in Electrical and Computer Engineering, both at Instituto Superior Técnico, University of Lisbon. That time included a 6-month Erasmus Exchange Program at TU Delft and a subsequent 9-month visit to TNO  for my MSc thesis with Prof. Remco Litjens, focusing on how 5G PHY and MAC layer configurations impact QoS in VR meetings. More recently, I interned with the 6G RAN team at NVIDIA, integrating machine learning in the AERIAL Omniverse Digital Twin.
+Hi! 👋 I am a fourth-year PhD student in the [Wireless Intelligence Lab](https://wi-lab.net/) at Arizona State University advised by Prof. Ahmed Alkhateeb. Before joining the WI-LAB at ASU, I did a BSc and MSc in Electrical and Computer Engineering, both at Instituto Superior Técnico, University of Lisbon. That time included a 6-month Erasmus Exchange Program at TU Delft and a subsequent 9-month visit to TNO, in The Hague, for my MSc thesis with Prof. Remco Litjens, focusing on how 5G PHY and MAC layer configurations impact QoS in VR meetings. More recently, I interned with the 6G RAN team at NVIDIA, integrating machine learning in the AERIAL Omniverse Digital Twin. I am currently heavily developing DeepMIMO to become the standard for wireless ray tracing datasets. 
 
 <div align="center">
   <img src="https://github-readme-stats-lic9.vercel.app/api?username=jmoraispk&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="João's GitHub Stats" width="450">
@@ -30,15 +30,16 @@ Hi! 👋 I am a fourth-year PhD student in the [Wireless Intelligence Lab](https
 ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
 
 ## 🔧 Projects
-- **[DeepSense6G](https://www.deepsense6g.net/)**  
-  DeepSense is a large-scale real-world multi-modal sensing and communication dataset for 6G deep learning research.
-  
-  [![Code](https://img.shields.io/badge/Code-GitHub-purple)](https://github.com/DeepSense6G) [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://www.deepsense6g.net/)
 
 - **[DeepMIMO](https://www.deepmimo.net/)**  
-  DeepMIMO is a dataset generation framework for deep learning in wireless communication, offering realistic ray-tracing-based channel data for tasks like beamforming and localization.
+  DeepMIMO is the standard for ray tracing datasets in wireless. I expanded the scope 10x, rewrote version 4 (current) from scratch, and have been leading its development, including designing the website, since Nov 2024.
   
   [![Code](https://img.shields.io/badge/Code-GitHub-purple)](https://github.com/deepmimo) [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://www.deepmimo.net/)
+
+- **[DeepSense6G](https://www.deepsense6g.net/)**  
+  DeepSense is a large-scale, real-world, multi-modal sensing and communication dataset for 6G deep learning research. I wrote the end-to-end software package: sensor capture, post-processing, synchronization, and a high-performance UI for data analysis and visualization (used for making the scenario videos). I also built the hardware testbed to collect and process scenarios 36-39 (Vechile-to-Vehicle) and 41 (Distributed Sensing).
+  
+  [![Code](https://img.shields.io/badge/Code-GitHub-purple)](https://github.com/DeepSense6G) [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://www.deepsense6g.net/)
 
 ## 📚 Publications
 
