@@ -2,7 +2,7 @@
 
 <!-- ![Git Banner](intro_joao.gif) -->
 
-Hi! 👋 I am a fourth-year PhD student in the [Wireless Intelligence Lab](https://wi-lab.net/) at Arizona State University advised by Prof. Ahmed Alkhateeb. Before joining the WI-LAB at ASU, I did a BSc and MSc in Electrical and Computer Engineering, both at Instituto Superior Técnico, University of Lisbon. That time included a 6-month Erasmus Exchange Program at TU Delft and a subsequent 9-month visit to TNO, in The Hague, for my MSc thesis with Prof. Remco Litjens, focusing on how 5G PHY and MAC layer configurations impact QoS in VR meetings. More recently, I interned with the 6G RAN team at NVIDIA, integrating machine learning in the AERIAL Omniverse Digital Twin. I am currently developing DeepMIMO to become the standard for wireless ray tracing datasets. 
+Hi! 👋 I am a fourth-year PhD student in the [Wireless Intelligence Lab](https://wi-lab.net/) at Arizona State University advised by Prof. Ahmed Alkhateeb. Before joining the WI-LAB at ASU, I did a BSc and MSc in Electrical and Computer Engineering, both at Instituto Superior Técnico, University of Lisbon. That time included a 6-month Erasmus Exchange Program at TU Delft and a subsequent 9-month visit to TNO, in The Hague, for my MSc thesis with Prof. Remco Litjens, focusing on how 5G PHY and MAC layer configurations impact QoS in VR meetings. More recently, I interned with the 6G RAN team at NVIDIA, integrating machine learning in the AERIAL Omniverse Digital Twin. I am currently developing DeepMIMO to become the standard for ray tracing datasets in wireless. 
 
 <div align="center">
   <img src="https://github-readme-stats-lic9.vercel.app/api?username=jmoraispk&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="João's GitHub Stats" width="450">
@@ -27,10 +27,10 @@ Hi! 👋 I am a fourth-year PhD student in the [Wireless Intelligence Lab](https
 
 
 ## 🔗 Links
-[![Web](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://jmoraispk.github.io/)
+[![Web](https://img.shields.io/badge/Website-joao.works-blue?style=for-the-badge)](https://jmoraispk.github.io/)
 [![Email](https://img.shields.io/badge/Email-joao@asu.edu-blue?style=for-the-badge)](mailto:joao@asu.edu)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
 
 ## 🔧 Projects
 
