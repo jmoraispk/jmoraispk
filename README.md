@@ -32,12 +32,17 @@ Hi! 👋 I am a fourth-year PhD student in the [Wireless Intelligence Lab](https
 ## 🔧 Projects
 
 - **[DeepMIMO](https://www.deepmimo.net/)**  
-  DeepMIMO is the standard for ray tracing datasets in wireless. I expanded the scope 10x, rewrote version 4 (current) from scratch, and have been leading its development, including designing the website, since Nov 2024.
+  *DeepMIMO is the standard for ray tracing datasets in wireless.*
+  - Expanded the scope 10x
+  - Wrote version 4 (current) from scratch
+  - Leading development (+ website design) since Nov 2024
   
   [![Code](https://img.shields.io/badge/Code-GitHub-purple)](https://github.com/deepmimo) [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://www.deepmimo.net/)
 
 - **[DeepSense6G](https://www.deepsense6g.net/)**  
-  DeepSense is a large-scale, real-world, multi-modal sensing and communication dataset for 6G deep learning research. I wrote the end-to-end software package: sensor capture, post-processing, synchronization, and a high-performance UI for data analysis and visualization (used for making the scenario videos). I also built the hardware testbed to collect and process scenarios 36-39 (Vechile-to-Vehicle) and 41 (Distributed Sensing).
+  *DeepSense is a large-scale, real-world, multi-modal sensing and communication dataset for 6G deep learning research.*
+  - Wrote the end-to-end software package: sensor capture, post-processing, synchronization, and a high-performance UI for data analysis and visualization (used in scenario videos)
+  - Built the hardware testbed to collect and process scenarios 36-39 (Vehicle-to-Vehicle) and 41 (Distributed Sensing)
   
   [![Code](https://img.shields.io/badge/Code-GitHub-purple)](https://github.com/DeepSense6G) [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://www.deepsense6g.net/)
 
