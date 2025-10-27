@@ -9,7 +9,7 @@ Hi! 👋 I am a fourth-year PhD student in the [Wireless Intelligence Lab](https
 </div>
 
 ## 💻 Programming & Tools
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-11-00599C?style=for-the-badge&logo=c%2B%2B)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
