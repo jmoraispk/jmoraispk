@@ -29,8 +29,8 @@ Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless 
 ## 🔗 Links
 [![Web](https://img.shields.io/badge/Website-joao.works-blue?style=for-the-badge)](https://jmoraispk.github.io/)
 [![Email](https://img.shields.io/badge/Email-joao@asu.edu-blue?style=for-the-badge)](mailto:joao@asu.edu)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmoraispk/)
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=U1wB3rsAAAAJ)
 
 ## 🔧 Projects
 
