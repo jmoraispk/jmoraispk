@@ -6,7 +6,7 @@ Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless 
 
 <img src="https://github-readme-stats-lic9.vercel.app/api?username=jmoraispk&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="João's GitHub Stats" width="450">
 
-<br><br>
+<br>
 
 [![Web](https://img.shields.io/badge/Website-joao.works-blue?style=for-the-badge)](https://jmoraispk.github.io/) &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-joao@asu.edu-blue?style=for-the-badge)](mailto:joao@asu.edu) &nbsp;&nbsp;
