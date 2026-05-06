@@ -64,7 +64,7 @@ Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless 
 - **[Comparing Stochastic and Ray-tracing Datasets in Machine Learning for Wireless Applications](https://arxiv.org/abs/2512.12449)**  
   *João Morais, Akshay Malhotra, Shahab Hamidi-Rad, and Ahmed Alkhateeb*  
   IEEE Asilomar Conference on Signals, Systems, and Computers, 2025  
-  [PDF](https://arxiv.org/pdf/2512.12449) | [arXiv](https://arxiv.org/abs/2512.12449) | [GitHub](https://github.com/jmoraispk/StochasticRTcomparison)
+  [PDF](https://arxiv.org/pdf/2512.12449) | [arXiv](https://arxiv.org/abs/2512.12449) | [GitHub](https://github.com/jmoraispk/StochasticRTcomparison) | [Video](https://youtu.be/vhJFnX2OcNk)
 
 - **[DeepSense-V2V: A Vehicle-to-Vehicle Multi-Modal Sensing, Localization, and Communications Dataset](https://www.deepsense6g.net/scenarios36-39/)**  
   *João Morais, Gouranga Charan, Nikhil Srinivas, and Ahmed Alkhateeb*  
@@ -75,6 +75,11 @@ Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless 
   *João Morais, Ahmed Alkhateeb*  
   IEEE International Conference on Communications (ICC), 2024  
   [PDF](https://arxiv.org/pdf/2403.09614) | [arXiv](https://arxiv.org/abs/2403.09614) | [GitHub](https://github.com/jmoraispk/LocalizationDigitalTwins) | [Project page](https://www.wi-lab.net/research/localization-digital-twins/) | [Video](https://youtu.be/WXJL37WqvNw)
+
+- **[Position Aided Beam Prediction in the Real World: How Useful GPS Locations Actually Are?](https://www.wi-lab.net/research/position-aided-prediction-paper-how-useful-gps-positions-actually-are/)**  
+  *João Morais, Arash Behboodi, Hamed Pezeshki, Ahmed Alkhateeb*  
+  IEEE International Conference on Communications (ICC), 2023  
+  [PDF](https://arxiv.org/pdf/2205.09054) | [arXiv](https://arxiv.org/abs/2205.09054) | [GitHub](https://github.com/jmoraispk/Position-Beam-Prediction) | [Project page](https://www.wi-lab.net/research/position-aided-prediction-paper-how-useful-gps-positions-actually-are/)
 
 ## 🚀 Side Projects
 
