@@ -32,19 +32,19 @@ Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless 
 
 ## 🔧 Wireless Projects
 
-- **2025–2026** — **[Aerial Framework](https://github.com/NVIDIA/aerial-framework)**: *A toolchain for generating high-performance, GPU-accelerated 5G/6G pipelines from Python, with a modular real-time runtime for NVIDIA Aerial™ RAN Computer platforms.*
+- **[2025-2026]** [Aerial Framework](https://github.com/NVIDIA/aerial-framework): A toolchain for high-performance (μs-level) GPU pipelines from Python.
   - Current project at NVIDIA
   
   [![Code](https://img.shields.io/badge/Code-GitHub-purple)](https://github.com/NVIDIA/aerial-framework) [![Docs](https://img.shields.io/badge/Docs-Visit-blue)](https://docs.nvidia.com/aerial/framework/latest/)
 
-- **2024–2025** — **[DeepMIMO](https://www.deepmimo.net/)**: *The standard for ray tracing datasets in wireless.*
+- **[2024-2025]** [DeepMIMO](https://www.deepmimo.net/): The standard for ray tracing datasets in wireless.
   - Expanded the scope 10x
   - Wrote version 4 (current) from scratch
   - Leading development & website design since Nov 2024
   
   [![Code](https://img.shields.io/badge/Code-GitHub-purple)](https://github.com/deepmimo) [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://www.deepmimo.net/)
 
-- **2021–2024** — **[DeepSense6G](https://www.deepsense6g.net/)**: *A real-world multi-modal sensing and communication dataset.*
+- **[2021-2024]** [DeepSense6G](https://www.deepsense6g.net/): A real-world multi-modal sensing and communication dataset.
   - Wrote the end-to-end software package: sensor capture, post-processing and synchronization
   - Made a high-performance UI for data analysis and visualization - used to make +40 scenario videos
   - Built the hardware testbed and collected scenarios 36-39 (Vehicle-to-Vehicle) and 41 (Distributed Sensing)
@@ -53,19 +53,19 @@ Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless 
 
 ## 📚 Selected Publications
 
-- **2025** — **[Comparing Stochastic and Ray-tracing Datasets in Machine Learning for Wireless Applications](https://arxiv.org/abs/2512.12449)**  
+- **[Comparing Stochastic and Ray-tracing Datasets in Machine Learning for Wireless Applications](https://arxiv.org/abs/2512.12449)**  
   *João Morais, Akshay Malhotra, Shahab Hamidi-Rad, and Ahmed Alkhateeb*  
-  IEEE Asilomar Conference on Signals, Systems, and Computers  
+  IEEE Asilomar Conference on Signals, Systems, and Computers, 2025  
   [PDF](https://arxiv.org/pdf/2512.12449) | [arXiv](https://arxiv.org/abs/2512.12449)
 
-- **2024** — **[DeepSense-V2V: A Vehicle-to-Vehicle Multi-Modal Sensing, Localization, and Communications Dataset](https://www.deepsense6g.net/scenarios36-39/)**  
+- **[DeepSense-V2V: A Vehicle-to-Vehicle Multi-Modal Sensing, Localization, and Communications Dataset](https://www.deepsense6g.net/scenarios36-39/)**  
   *João Morais, Gouranga Charan, Nikhil Srinivas, and Ahmed Alkhateeb*  
-  IEEE Transactions on Vehicular Technology (TVT)  
+  IEEE Transactions on Vehicular Technology (TVT), 2024  
   [PDF](https://arxiv.org/pdf/2406.17908) | [Project page](https://www.deepsense6g.net/scenarios36-39/)
 
-- **2024** — **[Localization in Digital Twin MIMO Networks: A Case for Massive Fingerprinting](https://www.wi-lab.net/research/localization-digital-twins/)**  
+- **[Localization in Digital Twin MIMO Networks: A Case for Massive Fingerprinting](https://www.wi-lab.net/research/localization-digital-twins/)**  
   *João Morais, Ahmed Alkhateeb*  
-  IEEE International Conference on Communications (ICC)  
+  IEEE International Conference on Communications (ICC), 2024  
   [PDF](https://arxiv.org/pdf/2403.09614) | [Project page](https://www.wi-lab.net/research/localization-digital-twins/)
 
 ## 🚀 Side Projects
