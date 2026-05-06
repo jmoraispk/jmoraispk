@@ -76,8 +76,6 @@ Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless 
 | Jul 2025 | [LogLife](https://github.com/jmoraispk/loglife) | AI-powered journaling, goal setting and habit tracking |
 | Jan 2026 | [AutoPress](https://github.com/jmoraispk/auto-press) | Automation utility to keep LLMs running (Cursor, Claude Code, ...) |
 | Feb 2026 | [AutoClaw](https://github.com/jmoraispk/autoclaw) | Auto deploy OpenClaw |
-| Feb 2026 | [OpenClaw Multi-User](https://github.com/jmoraispk/openclaw-multi-user) | Your own multi-user AI assistant. Any OS. Any platform. The lobster way 🦞 |
-| Feb 2026 | [OpenClaw Supermemory](https://github.com/jmoraispk/openclaw-supermemory) | Perfect memory and recall for personal AI agents |
 | Apr 2026 | [Quip Export](https://github.com/jmoraispk/quip-export) | Export all files on quip.com to HTML and convert to Markdown |
 | Apr 2026 | [Berimbau Trainer](https://github.com/jmoraispk/berimbau-trainer-web) | Training aid for playing the berimbau (Capoeira musical instrument) on the web |
 
