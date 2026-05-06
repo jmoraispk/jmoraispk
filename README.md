@@ -3,12 +3,8 @@
 Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless Intelligence Lab](https://wi-lab.net/) at [Arizona State University](http://asu.edu/) advised by Prof. Ahmed Alkhateeb. Before joining the WI-LAB at ASU, I did a BSc and MSc in Electrical and Computer Engineering, both at Instituto Superior Técnico, University of Lisbon. That time included a 6-month Erasmus Exchange Program at TU Delft and a subsequent 9-month visit to TNO, in The Hague, for my MSc thesis with Prof. Remco Litjens, focusing on how 5G PHY/MAC layer configurations impact QoS in VR meetings. More recently, I interned with the 6G RAN team at NVIDIA, integrating machine learning in the AERIAL Omniverse Digital Twin. I am currently developing DeepMIMO to become the standard for ray tracing datasets in wireless. 
 
 <div align="center">
-  <img src="https://github-readme-stats-lic9.vercel.app/api?username=jmoraispk&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="João's GitHub Stats" width="450">
-</div>
 
-## 🔗 Links
-
-<div align="center">
+<img src="https://github-readme-stats-lic9.vercel.app/api?username=jmoraispk&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="João's GitHub Stats" width="450">
 
 [![Web](https://img.shields.io/badge/Website-joao.works-blue?style=for-the-badge)](https://jmoraispk.github.io/)
 [![Email](https://img.shields.io/badge/Email-joao@asu.edu-blue?style=for-the-badge)](mailto:joao@asu.edu)
