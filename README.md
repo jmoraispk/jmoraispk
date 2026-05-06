@@ -32,7 +32,7 @@ Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless 
 
 ## 🔧 Wireless Projects
 
-- **[2025-2026]** [Aerial Framework](https://github.com/NVIDIA/aerial-framework): A toolchain for high-performance (μs-level) GPU pipelines from Python.
+- **[2025-2026]** [Aerial Framework](https://github.com/NVIDIA/aerial-framework): A toolchain for GPU-accelerated, μs-level pipelines from Python.
   - Current project at NVIDIA
   
   [![Code](https://img.shields.io/badge/Code-GitHub-purple)](https://github.com/NVIDIA/aerial-framework) [![Docs](https://img.shields.io/badge/Docs-Visit-blue)](https://docs.nvidia.com/aerial/framework/latest/)
