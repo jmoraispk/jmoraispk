@@ -68,17 +68,17 @@ Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless 
 
 *A growing collection of personal projects — AI tooling, hobby apps, and utilities.*
 
-| Date | Project | Description |
-|------|---------|-------------|
-| Jan 2026 – present | [AutoPress](https://github.com/jmoraispk/auto-press) | Automation utility to keep LLMs running (Cursor, Claude Code, ...) |
-| Apr 2026 – present | [Berimbau Trainer](https://github.com/jmoraispk/berimbau-trainer-web) | Training aid for playing the berimbau (Capoeira musical instrument) on the web |
-| Apr 2026 | [Quip Export](https://github.com/jmoraispk/quip-export) | Export all files on quip.com to HTML and convert to Markdown |
+| Started | Project | Description |
+|---------|---------|-------------|
+| Aug 2021 | [FastTypingShortcuts](https://github.com/jmoraispk/FastTypingShortcuts) | Common-sense programs and methods to improve productivity on Windows |
+| Dec 2021 | [ParkourSpotID](https://github.com/jmoraispk/ParkourSpotID) | A machine vision project to find parkour spots in the wild (or in Google Maps) |
+| Feb 2022 | [Spotify Playlists Merger](https://github.com/jmoraispk/Spotify-Playlists-Merger) | A 10-line Python script for merging Spotify playlists |
+| Jul 2025 | [LogLife](https://github.com/jmoraispk/loglife) | AI-powered journaling, goal setting and habit tracking |
+| Jan 2026 | [AutoPress](https://github.com/jmoraispk/auto-press) | Automation utility to keep LLMs running (Cursor, Claude Code, ...) |
+| Feb 2026 | [AutoClaw](https://github.com/jmoraispk/autoclaw) | Auto deploy OpenClaw |
 | Feb 2026 | [OpenClaw Multi-User](https://github.com/jmoraispk/openclaw-multi-user) | Your own multi-user AI assistant. Any OS. Any platform. The lobster way 🦞 |
 | Feb 2026 | [OpenClaw Supermemory](https://github.com/jmoraispk/openclaw-supermemory) | Perfect memory and recall for personal AI agents |
-| Feb 2026 | [AutoClaw](https://github.com/jmoraispk/autoclaw) | Auto deploy OpenClaw |
-| Jul 2025 – Apr 2026 | [LogLife](https://github.com/jmoraispk/loglife) | AI-powered journaling, goal setting and habit tracking |
-| Aug 2021 – Dec 2022 | [FastTypingShortcuts](https://github.com/jmoraispk/FastTypingShortcuts) | Common-sense programs and methods to improve productivity on Windows |
-| Feb 2022 | [Spotify Playlists Merger](https://github.com/jmoraispk/Spotify-Playlists-Merger) | A 10-line Python script for merging Spotify playlists |
-| Dec 2021 – Jan 2022 | [ParkourSpotID](https://github.com/jmoraispk/ParkourSpotID) | A machine vision project to find parkour spots in the wild (or in Google Maps) |
+| Apr 2026 | [Quip Export](https://github.com/jmoraispk/quip-export) | Export all files on quip.com to HTML and convert to Markdown |
+| Apr 2026 | [Berimbau Trainer](https://github.com/jmoraispk/berimbau-trainer-web) | Training aid for playing the berimbau (Capoeira musical instrument) on the web |
 
 ---
