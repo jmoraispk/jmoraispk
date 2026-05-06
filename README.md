@@ -6,6 +6,8 @@ Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless 
 
 <img src="https://github-readme-stats-lic9.vercel.app/api?username=jmoraispk&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="João's GitHub Stats" width="450">
 
+<br><br>
+
 [![Web](https://img.shields.io/badge/Website-joao.works-blue?style=for-the-badge)](https://jmoraispk.github.io/) &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-joao@asu.edu-blue?style=for-the-badge)](mailto:joao@asu.edu) &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmoraispk/) &nbsp;&nbsp;
@@ -62,17 +64,17 @@ Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless 
 - **[Comparing Stochastic and Ray-tracing Datasets in Machine Learning for Wireless Applications](https://arxiv.org/abs/2512.12449)**  
   *João Morais, Akshay Malhotra, Shahab Hamidi-Rad, and Ahmed Alkhateeb*  
   IEEE Asilomar Conference on Signals, Systems, and Computers, 2025  
-  [PDF](https://arxiv.org/pdf/2512.12449) | [arXiv](https://arxiv.org/abs/2512.12449)
+  [PDF](https://arxiv.org/pdf/2512.12449) | [arXiv](https://arxiv.org/abs/2512.12449) | [GitHub](https://github.com/jmoraispk/StochasticRTcomparison)
 
 - **[DeepSense-V2V: A Vehicle-to-Vehicle Multi-Modal Sensing, Localization, and Communications Dataset](https://www.deepsense6g.net/scenarios36-39/)**  
   *João Morais, Gouranga Charan, Nikhil Srinivas, and Ahmed Alkhateeb*  
   IEEE Transactions on Vehicular Technology (TVT), 2024  
-  [PDF](https://arxiv.org/pdf/2406.17908) | [Project page](https://www.deepsense6g.net/scenarios36-39/)
+  [PDF](https://arxiv.org/pdf/2406.17908) | [arXiv](https://arxiv.org/abs/2406.17908) | [Project page](https://www.deepsense6g.net/scenarios36-39/)
 
 - **[Localization in Digital Twin MIMO Networks: A Case for Massive Fingerprinting](https://www.wi-lab.net/research/localization-digital-twins/)**  
   *João Morais, Ahmed Alkhateeb*  
   IEEE International Conference on Communications (ICC), 2024  
-  [PDF](https://arxiv.org/pdf/2403.09614) | [Project page](https://www.wi-lab.net/research/localization-digital-twins/)
+  [PDF](https://arxiv.org/pdf/2403.09614) | [arXiv](https://arxiv.org/abs/2403.09614) | [GitHub](https://github.com/jmoraispk/LocalizationDigitalTwins) | [Project page](https://www.wi-lab.net/research/localization-digital-twins/) | [Video](https://youtu.be/WXJL37WqvNw)
 
 ## 🚀 Side Projects
 
