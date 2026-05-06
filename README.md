@@ -66,11 +66,11 @@ Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless 
 
 | Started | Project | Description |
 |---------|---------|-------------|
-| Apr 2026 | 🟢 [Berimbau Pro](https://github.com/jmoraispk/berimbau-trainer-web) ([site](https://berimbau-pro.vercel.app)) | Training aid for playing Capoeira musical instruments on the web |
+| Apr 2026 | [Berimbau Pro](https://github.com/jmoraispk/berimbau-trainer-web) ([site](https://berimbau-pro.vercel.app)) | Training aid for playing Capoeira musical instruments on the web |
 | Apr 2026 | [Quip Export](https://github.com/jmoraispk/quip-export) | Export all files on quip.com to HTML and convert to Markdown |
-| Feb 2026 | [AutoClaw](https://github.com/jmoraispk/autoclaw) | Auto deploy OpenClaw |
+| Feb 2026 | [AutoClaw](https://github.com/jmoraispk/autoclaw) ([site](https://autoclaw.dev)) | Auto deploy OpenClaw |
 | Jan 2026 | [CodeAway](https://github.com/jmoraispk/codeaway) ([site](https://codeaway.dev)) | Automation utility to keep LLMs running (Cursor, Claude Code, ...) |
-| Jul 2025 | 🟢 [LogLife](https://github.com/jmoraispk/loglife) ([site](https://loglife.co)) | AI-powered journaling, goal setting and habit tracking |
+| Jul 2025 | [LogLife](https://github.com/jmoraispk/loglife) ([site](https://loglife.co)) | AI-powered journaling, goal setting and habit tracking |
 | Feb 2022 | [Spotify Playlists Merger](https://github.com/jmoraispk/Spotify-Playlists-Merger) | A 10-line Python script for merging Spotify playlists |
 | Dec 2021 | [ParkourSpotID](https://github.com/jmoraispk/ParkourSpotID) | A machine vision project to find parkour spots in Google Maps |
 | Aug 2021 | [FastTypingShortcuts](https://github.com/jmoraispk/FastTypingShortcuts) | Common-sense methods to improve typing productivity on Windows |
