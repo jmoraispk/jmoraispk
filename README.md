@@ -70,13 +70,13 @@ Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless 
 
 | Started | Project | Description |
 |---------|---------|-------------|
-| Aug 2021 | [FastTypingShortcuts](https://github.com/jmoraispk/FastTypingShortcuts) | Common-sense programs and methods to improve productivity on Windows |
-| Dec 2021 | [ParkourSpotID](https://github.com/jmoraispk/ParkourSpotID) | A machine vision project to find parkour spots in the wild (or in Google Maps) |
-| Feb 2022 | [Spotify Playlists Merger](https://github.com/jmoraispk/Spotify-Playlists-Merger) | A 10-line Python script for merging Spotify playlists |
-| Jul 2025 | [LogLife](https://github.com/jmoraispk/loglife) | AI-powered journaling, goal setting and habit tracking |
-| Jan 2026 | [AutoPress](https://github.com/jmoraispk/auto-press) | Automation utility to keep LLMs running (Cursor, Claude Code, ...) |
-| Feb 2026 | [AutoClaw](https://github.com/jmoraispk/autoclaw) | Auto deploy OpenClaw |
+| Apr 2026 | 🟢 [Berimbau Pro](https://github.com/jmoraispk/berimbau-trainer-web) | Training aid for playing Capoeira musical instruments on the web |
 | Apr 2026 | [Quip Export](https://github.com/jmoraispk/quip-export) | Export all files on quip.com to HTML and convert to Markdown |
-| Apr 2026 | [Berimbau Trainer](https://github.com/jmoraispk/berimbau-trainer-web) | Training aid for playing the berimbau (Capoeira musical instrument) on the web |
+| Feb 2026 | [AutoClaw](https://github.com/jmoraispk/autoclaw) | Auto deploy OpenClaw |
+| Jan 2026 | [AutoPress](https://github.com/jmoraispk/auto-press) | Automation utility to keep LLMs running (Cursor, Claude Code, ...) |
+| Jul 2025 | 🟢 [LogLife](https://github.com/jmoraispk/loglife) | AI-powered journaling, goal setting and habit tracking |
+| Feb 2022 | [Spotify Playlists Merger](https://github.com/jmoraispk/Spotify-Playlists-Merger) | A 10-line Python script for merging Spotify playlists |
+| Dec 2021 | [ParkourSpotID](https://github.com/jmoraispk/ParkourSpotID) | A machine vision project to find parkour spots in Google Maps |
+| Aug 2021 | [FastTypingShortcuts](https://github.com/jmoraispk/FastTypingShortcuts) | Common-sense methods to improve typing productivity on Windows |
 
 ---
