@@ -19,10 +19,10 @@ Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless 
 
 <table>
 <tr>
-<td>💻 <b>Programming & Tools</b></td>
+<td>💻 <b>Programming Tools</b></td>
 <td>
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-11-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Conda](https://img.shields.io/badge/Conda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.14-blue?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-11-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-12.9-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json&style=flat-square) ![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json&style=flat-square) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 </tr>
