@@ -1,6 +1,6 @@
 # João Morais
 
-Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless Intelligence Lab](https://wi-lab.net/) at [Arizona State University](http://asu.edu/) advised by Prof. Ahmed Alkhateeb. Before joining the WI-LAB at ASU, I did a BSc and MSc in Electrical and Computer Engineering, both at Instituto Superior Técnico, University of Lisbon. That time included a 6-month Erasmus Exchange Program at TU Delft and a subsequent 9-month visit to TNO, in The Hague, for my MSc thesis with Prof. Remco Litjens, focusing on how 5G PHY/MAC layer configurations impact QoS in VR meetings. More recently, I interned with the 6G RAN team at NVIDIA, integrating machine learning in the AERIAL Omniverse Digital Twin. I am currently developing DeepMIMO to become the standard for ray tracing datasets in wireless. 
+Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless Intelligence Lab](https://wi-lab.net/). I'm currently working on [Aerial Framework](https://github.com/NVIDIA/aerial-framework) towards enabling 6G development and efficient OTA deployments to GPUs. 
 
 <div align="center">
 
