@@ -94,7 +94,7 @@ Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless 
 
 | Started | Project | Description |
 |---------|---------|-------------|
-| Jul 2026 | [hero-readme](https://github.com/jmoraispk/hero-readme) | Agent skill to generate animated hero images for your README |
+| Jul 2026 | [Hero README](https://github.com/jmoraispk/hero-readme) | Agent skill to generate animated hero images for your README |
 | Jul 2026 | [Delta Review](https://github.com/jmoraispk/delta-review) | A fast, local interface for reviewing GitLab merge requests |
 | Jun 2026 | [Odysseus FX](https://github.com/jmoraispk/odysseus-fx) ([site](https://jmoraispk.github.io/odysseus-fx/)) | 25 live, interactive visual effects in a single HTML file |
 | Apr 2026 | [Berimbau Pro](https://github.com/jmoraispk/berimbau-trainer-web) ([site](https://berimbau.pro)) | Training aid for playing Capoeira musical instruments on the web |
