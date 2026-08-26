@@ -97,7 +97,7 @@ Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless 
 | Jul 2026 | [Hero README](https://github.com/jmoraispk/hero-readme) | Agent skill to generate animated hero images for your README |
 | Jul 2026 | [Delta Review](https://github.com/jmoraispk/delta-review) | A fast, local interface for reviewing GitLab merge requests |
 | Jun 2026 | [Odysseus FX](https://github.com/jmoraispk/odysseus-fx) ([site](https://jmoraispk.github.io/odysseus-fx/)) | 25 live, interactive visual effects in a single HTML file |
-| Jun 2026 | [roda.fyi](https://github.com/jmoraispk/roda.fyi) ([site](https://roda-fyi.vercel.app)) | A visual field guide to Capoeira moves, sequences, and music |
+| Jun 2026 | [Roda.fyi](https://github.com/jmoraispk/roda.fyi) ([site](https://roda-fyi.vercel.app)) | A visual field guide to Capoeira moves, sequences, and music |
 | Apr 2026 | [Berimbau Pro](https://github.com/jmoraispk/berimbau-trainer-web) ([site](https://berimbau.pro)) | Training aid for playing Capoeira musical instruments on the web |
 | Apr 2026 | [Quip Export](https://github.com/jmoraispk/quip-export) | Export all files on quip.com to HTML and convert to Markdown |
 | Feb 2026 | [AutoClaw](https://github.com/jmoraispk/autoclaw) ([site](https://autoclaw.dev)) | Auto deploy OpenClaw |
