@@ -43,6 +43,29 @@ Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless 
 </tr>
 </table>
 
+## 🚀 Side Projects
+
+*A growing collection of personal projects — AI tooling, hobby apps, and utilities.*
+
+| Started | Project | Description |
+|---------|---------|-------------|
+| Sep 2026 | [CodeAway2](https://github.com/jmoraispk/codeaway2) | Thin phone interface for local AI coding agents over Tailscale |
+| Aug 2026 | [DayTrace](https://github.com/jmoraispk/daytrace) ([PyPI](https://pypi.org/project/daytrace/), [npm](https://www.npmjs.com/package/@jmoraispk/daytrace)) | LLM-generated daily summaries from ActivityWatch data, available as Python and npm packages |
+| Aug 2026 | [SummonLab](https://github.com/jmoraispk/summonlab) ([site](https://summonlab.ai)) | A gacha game where every hero is an agent—roll for personalities, then watch them play themselves |
+| Jul 2026 | [Hero README](https://github.com/jmoraispk/hero-readme) | Agent skill to generate animated hero images for your README |
+| Jul 2026 | [Delta Review](https://github.com/jmoraispk/delta-review) | A fast, local interface for reviewing GitLab merge requests |
+| Jun 2026 | [Odysseus FX](https://github.com/jmoraispk/odysseus-fx) ([site](https://jmoraispk.github.io/odysseus-fx/)) | 25 live, interactive visual effects in a single HTML file |
+| Jun 2026 | [Roda.fyi](https://github.com/jmoraispk/roda.fyi) ([site](https://roda-fyi.vercel.app)) | A visual field guide to Capoeira moves, sequences, and music |
+| Apr 2026 | [Berimbau Pro](https://github.com/jmoraispk/berimbau-trainer-web) ([site](https://berimbau.pro)) | Training aid for playing Capoeira musical instruments on the web |
+| Apr 2026 | [Quip Export](https://github.com/jmoraispk/quip-export) | Export all files on quip.com to HTML and convert to Markdown |
+| Feb 2026 | [AutoClaw](https://github.com/jmoraispk/autoclaw) ([site](https://autoclaw.dev)) | Auto deploy OpenClaw |
+| Jan 2026 | [CodeAway](https://github.com/jmoraispk/codeaway) ([site](https://codeaway.dev)) | Automation utility to keep LLMs running (Cursor, Claude Code, ...) |
+| Oct 2025 | [OAI Python](https://github.com/jmoraispk/oai-python) ([site](https://jmoraispk.github.io/oai-python/)) | OpenAirInterface Python bindings and native Python implementation |
+| Jul 2025 | [LogLife](https://github.com/jmoraispk/loglife) ([site](https://loglife.co)) | AI-powered journaling, goal setting and habit tracking |
+| Feb 2022 | [Spotify Playlists Merger](https://github.com/jmoraispk/Spotify-Playlists-Merger) | A 10-line Python script for merging Spotify playlists |
+| Dec 2021 | [ParkourSpotID](https://github.com/jmoraispk/ParkourSpotID) | A machine vision project to find parkour spots in Google Maps |
+| Aug 2021 | [FastTypingShortcuts](https://github.com/jmoraispk/FastTypingShortcuts) | Common-sense methods to improve typing productivity on Windows |
+
 ## 🔧 Wireless Projects
 
 - **[2025-2026]** [Aerial Framework](https://github.com/NVIDIA/aerial-framework): A toolchain for GPU-accelerated, μs-level pipelines from Python.
@@ -87,24 +110,5 @@ Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless 
   *João Morais, Arash Behboodi, Hamed Pezeshki, Ahmed Alkhateeb*  
   IEEE International Conference on Communications (ICC), 2023  
   [PDF](https://arxiv.org/pdf/2205.09054) | [arXiv](https://arxiv.org/abs/2205.09054) | [GitHub](https://github.com/jmoraispk/Position-Beam-Prediction) | [Project page](https://www.wi-lab.net/research/position-aided-prediction-paper-how-useful-gps-positions-actually-are/)
-
-## 🚀 Side Projects
-
-*A growing collection of personal projects — AI tooling, hobby apps, and utilities.*
-
-| Started | Project | Description |
-|---------|---------|-------------|
-| Jul 2026 | [Hero README](https://github.com/jmoraispk/hero-readme) | Agent skill to generate animated hero images for your README |
-| Jul 2026 | [Delta Review](https://github.com/jmoraispk/delta-review) | A fast, local interface for reviewing GitLab merge requests |
-| Jun 2026 | [Odysseus FX](https://github.com/jmoraispk/odysseus-fx) ([site](https://jmoraispk.github.io/odysseus-fx/)) | 25 live, interactive visual effects in a single HTML file |
-| Jun 2026 | [Roda.fyi](https://github.com/jmoraispk/roda.fyi) ([site](https://roda-fyi.vercel.app)) | A visual field guide to Capoeira moves, sequences, and music |
-| Apr 2026 | [Berimbau Pro](https://github.com/jmoraispk/berimbau-trainer-web) ([site](https://berimbau.pro)) | Training aid for playing Capoeira musical instruments on the web |
-| Apr 2026 | [Quip Export](https://github.com/jmoraispk/quip-export) | Export all files on quip.com to HTML and convert to Markdown |
-| Feb 2026 | [AutoClaw](https://github.com/jmoraispk/autoclaw) ([site](https://autoclaw.dev)) | Auto deploy OpenClaw |
-| Jan 2026 | [CodeAway](https://github.com/jmoraispk/codeaway) ([site](https://codeaway.dev)) | Automation utility to keep LLMs running (Cursor, Claude Code, ...) |
-| Jul 2025 | [LogLife](https://github.com/jmoraispk/loglife) ([site](https://loglife.co)) | AI-powered journaling, goal setting and habit tracking |
-| Feb 2022 | [Spotify Playlists Merger](https://github.com/jmoraispk/Spotify-Playlists-Merger) | A 10-line Python script for merging Spotify playlists |
-| Dec 2021 | [ParkourSpotID](https://github.com/jmoraispk/ParkourSpotID) | A machine vision project to find parkour spots in Google Maps |
-| Aug 2021 | [FastTypingShortcuts](https://github.com/jmoraispk/FastTypingShortcuts) | Common-sense methods to improve typing productivity on Windows |
 
 ---
