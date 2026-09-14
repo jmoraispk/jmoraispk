@@ -50,8 +50,8 @@ Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless 
 | Started | Project | Description |
 |---------|---------|-------------|
 | Sep 2026 | [CodeAway2](https://github.com/jmoraispk/codeaway2) | Thin phone interface for local AI coding agents over Tailscale |
-| Aug 2026 | [DayTrace](https://github.com/jmoraispk/daytrace) ([PyPI](https://pypi.org/project/daytrace/), [npm](https://www.npmjs.com/package/@jmoraispk/daytrace)) | LLM-generated daily summaries from ActivityWatch data, available as Python and npm packages |
-| Aug 2026 | [SummonLab](https://github.com/jmoraispk/summonlab) ([site](https://summonlab.ai)) | A gacha game where every hero is an agent—roll for personalities, then watch them play themselves |
+| Aug 2026 | [DayTrace](https://github.com/jmoraispk/daytrace) ([PyPI](https://pypi.org/project/daytrace/), [npm](https://www.npmjs.com/package/@jmoraispk/daytrace)) | LLM summaries from ActivityWatch data |
+| Aug 2026 | [SummonLab](https://github.com/jmoraispk/summonlab) ([site](https://summonlab.ai)) | Idle gacha RPG with agent heroes, random personalities, and human-like choices |
 | Jul 2026 | [Hero README](https://github.com/jmoraispk/hero-readme) | Agent skill to generate animated hero images for your README |
 | Jul 2026 | [Delta Review](https://github.com/jmoraispk/delta-review) | A fast, local interface for reviewing GitLab merge requests |
 | Jun 2026 | [Odysseus FX](https://github.com/jmoraispk/odysseus-fx) ([site](https://jmoraispk.github.io/odysseus-fx/)) | 25 live, interactive visual effects in a single HTML file |
