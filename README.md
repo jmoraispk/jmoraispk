@@ -2,26 +2,17 @@
 
 Hi! 👋 I am a Senior Software Engineer at NVIDIA, currently working on the [Aerial Python Ecosystem](https://developer.nvidia.com/aerial). Previously, I was a PhD student at the [Wireless Intelligence Lab](https://wi-lab.net/). My research interests lie at the intersection of Digital Twins, Localization and Radio Resource Management.
 
-<div align="center">
+<img align="left" src="https://github-stats-extended.vercel.app/api?username=jmoraispk&show_icons=true&include_all_commits=true&theme=dark_github" alt="João's GitHub Stats" width="450">
 
-<table>
-<tr>
-<td align="center" valign="middle">
+<p align="right">
+<br>
+<a href="https://jmoraispk.github.io/"><img src="https://img.shields.io/badge/Website-joao.works-blue?style=for-the-badge" alt="Web"></a><br>
+<a href="mailto:joao@asu.edu"><img src="https://img.shields.io/badge/Email-joao@asu.edu-blue?style=for-the-badge" alt="Email"></a><br>
+<a href="https://www.linkedin.com/in/jmoraispk/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br>
+<a href="https://scholar.google.com/citations?hl=en&user=U1wB3rsAAAAJ"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+</p>
 
-[![Web](https://img.shields.io/badge/Website-joao.works-blue?style=for-the-badge)](https://jmoraispk.github.io/)
-
-[![Email](https://img.shields.io/badge/Email-joao@asu.edu-blue?style=for-the-badge)](mailto:joao@asu.edu)
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmoraispk/)
-
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=U1wB3rsAAAAJ)
-
-</td>
-<td align="center" valign="middle"><img src="https://github-stats-extended.vercel.app/api?username=jmoraispk&show_icons=true&include_all_commits=true&theme=dark_github" alt="João's GitHub Stats" width="450"></td>
-</tr>
-</table>
-
-</div>
+<br clear="left">
 
 ## 🛠️ Stack
 
@@ -55,6 +46,24 @@ Hi! 👋 I am a Senior Software Engineer at NVIDIA, currently working on the [Ae
 ## 🔧 Wireless Projects
 
 <table>
+<tr>
+<td colspan="3" valign="top">
+
+<div align="center">
+
+### 🐍 [Aerial Python Ecosystem](https://developer.nvidia.com/aerial)
+![Current](https://img.shields.io/badge/Current-76B900?style=flat-square)
+
+</div>
+
+- Writing the reference implementation
+- Unifying link-level and system-level simulation
+- Designing in-memory architecture
+- Python packaging and tooling
+- Designing interfaces for AI integration
+
+</td>
+</tr>
 <tr>
 
 <td valign="top" width="33%">
@@ -91,9 +100,9 @@ A toolchain for GPU-accelerated, μs-level pipelines from Python.
 
 The standard for ray-tracing datasets in wireless.
 
-- Expanded the scope 10×
-- Wrote version 4 (current) from scratch
-- Leading dev & web design since Nov 2024
+- Grew the scenario library 10×
+- Wrote v4 (latest) from scratch
+- Leading dev & design since 2024
 
 <div align="center">
 
@@ -114,9 +123,9 @@ The standard for ray-tracing datasets in wireless.
 
 A real-world multi-modal sensing & communication dataset.
 
-- End-to-end capture, processing & sync
-- High-performance UI (40+ scenario videos)
-- Built the testbed; collected V2V scenarios
+- End-to-end capture & synchronization
+- High-performance UI (40+ videos)
+- Built the testbed; collected V2V data
 
 <div align="center">
 
