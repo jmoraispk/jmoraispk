@@ -121,7 +121,7 @@ Built testbed & collected V2V data
 <td valign="top">
 
 **[DeepSense-V2V: A Vehicle-to-Vehicle Multi-Modal Sensing, Localization, and Communications Dataset](https://www.deepsense6g.net/scenarios36-39/)**<img src="assets/spacer.svg" align="top" alt=""><br>
-<img align="right" src="https://img.shields.io/badge/IEEE_TVT-2024-475569?style=flat-square" alt="IEEE TVT 2024">João Morais, Gouranga Charan, Nikhil Srinivas, Ahmed Alkhateeb
+<img align="right" src="https://img.shields.io/badge/IEEE_TVT-2025-475569?style=flat-square" alt="IEEE TVT 2025">João Morais, Gouranga Charan, Nikhil Srinivas, Ahmed Alkhateeb
 
 </td>
 <td valign="top">
