@@ -22,16 +22,12 @@ Hi! 👋 I am a Senior Software Engineer at NVIDIA, currently working on the [Ae
 
 <div align="center">
 
-### 🐍 [Aerial Python Ecosystem](https://developer.nvidia.com/aerial)
-![Current](https://img.shields.io/badge/Current-76B900?style=flat-square)
+### 🐍 [Aerial Python Ecosystem](https://developer.nvidia.com/aerial) ![Current](https://img.shields.io/badge/Current-76B900?style=flat-square)
 
-The Python layer for NVIDIA Aerial, from simulation to AI.
-
+The Python layer for NVIDIA Aerial, from simulation to AI. [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://developer.nvidia.com/aerial)<br>
 Writing the reference implementation · Unifying link-level & system-level simulation<br>
 Designing in-memory architecture · Python packaging & tooling · Designing interfaces for AI integration
 <img width="820" height="0" align="left">
-
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://developer.nvidia.com/aerial)
 
 </div>
 
@@ -44,14 +40,12 @@ Designing in-memory architecture · Python packaging & tooling · Designing inte
 <div align="center">
 
 ### 🛰️ [Aerial Framework](https://github.com/NVIDIA/aerial-framework)
-![2025–2026](https://img.shields.io/badge/2025--2026-76B900?style=flat-square)
-
+![2025–2026](https://img.shields.io/badge/2025--2026-76B900?style=flat-square)<br>
 A toolchain for GPU-accelerated,<br>μs-level pipelines from Python.
 
 PUSCH 5G Python implementation<br>
 Tutorials, docs, diagrams & figures<br>
-Agentic CUDA plugins for TensorRT
-
+Agentic CUDA plugins for TensorRT<br>
 [![Code](https://img.shields.io/badge/Code-GitHub-purple?style=flat-square)](https://github.com/NVIDIA/aerial-framework) [![Docs](https://img.shields.io/badge/Docs-Visit-blue?style=flat-square)](https://docs.nvidia.com/aerial/framework/latest/)
 
 </div>
@@ -63,14 +57,12 @@ Agentic CUDA plugins for TensorRT
 <div align="center">
 
 ### 🗺️ [DeepMIMO](https://www.deepmimo.net/)
-![2024–2025](https://img.shields.io/badge/2024--2025-0A66C2?style=flat-square)
-
+![2024–2025](https://img.shields.io/badge/2024--2025-0A66C2?style=flat-square)<br>
 The standard for ray-tracing<br>datasets in wireless.
 
 Grew the scenario library 10×<br>
 Wrote v4 (latest) from scratch<br>
-Lead dev & design ([100+ features](https://deepmimo.net/docs/resources/capabilities/v3_vs_v4.html#deepmimo-v3-vs-v4-feature-comparison))
-
+Lead dev & design ([100+ features](https://deepmimo.net/docs/resources/capabilities/v3_vs_v4.html#deepmimo-v3-vs-v4-feature-comparison))<br>
 [![Code](https://img.shields.io/badge/Code-GitHub-purple?style=flat-square)](https://github.com/deepmimo) [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://www.deepmimo.net/)
 
 </div>
@@ -82,14 +74,12 @@ Lead dev & design ([100+ features](https://deepmimo.net/docs/resources/capabilit
 <div align="center">
 
 ### 🚗 [DeepSense6G](https://www.deepsense6g.net/)
-![2021–2024](https://img.shields.io/badge/2021--2024-E8590C?style=flat-square)
-
+![2021–2024](https://img.shields.io/badge/2021--2024-E8590C?style=flat-square)<br>
 A real-world multi-modal<br>sensing & communication dataset.
 
 End-to-end capture & processing<br>
 High-performance UI (40+ videos)<br>
-Built testbed & collected V2V data
-
+Built testbed & collected V2V data<br>
 [![Code](https://img.shields.io/badge/Code-GitHub-purple?style=flat-square)](https://github.com/DeepSense6G) [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://www.deepsense6g.net/)
 
 </div>
@@ -110,8 +100,7 @@ Built testbed & collected V2V data
 <td valign="top">
 
 **[Comparing Stochastic and Ray-tracing Datasets in Machine Learning for Wireless Applications](https://arxiv.org/abs/2512.12449)**<br>
-<sub>João Morais, Akshay Malhotra, Shahab Hamidi-Rad, Ahmed Alkhateeb</sub><br>
-![Asilomar 2025](https://img.shields.io/badge/Asilomar-2025-475569?style=flat-square)
+<img align="right" src="https://img.shields.io/badge/Asilomar-2025-475569?style=flat-square" alt="Asilomar 2025"><sub>João Morais, Akshay Malhotra, Shahab Hamidi-Rad, Ahmed Alkhateeb</sub>
 
 </td>
 <td valign="top">
@@ -125,8 +114,7 @@ Built testbed & collected V2V data
 <td valign="top">
 
 **[DeepSense-V2V: A Vehicle-to-Vehicle Multi-Modal Sensing, Localization, and Communications Dataset](https://www.deepsense6g.net/scenarios36-39/)**<br>
-<sub>João Morais, Gouranga Charan, Nikhil Srinivas, Ahmed Alkhateeb</sub><br>
-![IEEE TVT 2024](https://img.shields.io/badge/IEEE_TVT-2024-475569?style=flat-square)
+<img align="right" src="https://img.shields.io/badge/IEEE_TVT-2024-475569?style=flat-square" alt="IEEE TVT 2024"><sub>João Morais, Gouranga Charan, Nikhil Srinivas, Ahmed Alkhateeb</sub>
 
 </td>
 <td valign="top">
@@ -140,8 +128,7 @@ Built testbed & collected V2V data
 <td valign="top">
 
 **[Localization in Digital Twin MIMO Networks: A Case for Massive Fingerprinting](https://www.wi-lab.net/research/localization-digital-twins/)**<br>
-<sub>João Morais, Ahmed Alkhateeb</sub><br>
-![IEEE ICC 2024](https://img.shields.io/badge/IEEE_ICC-2024-475569?style=flat-square)
+<img align="right" src="https://img.shields.io/badge/IEEE_ICC-2024-475569?style=flat-square" alt="IEEE ICC 2024"><sub>João Morais, Ahmed Alkhateeb</sub>
 
 </td>
 <td valign="top">
@@ -155,8 +142,7 @@ Built testbed & collected V2V data
 <td valign="top">
 
 **[Position Aided Beam Prediction in the Real World: How Useful GPS Locations Actually Are?](https://www.wi-lab.net/research/position-aided-prediction-paper-how-useful-gps-positions-actually-are/)**<br>
-<sub>João Morais, Arash Behboodi, Hamed Pezeshki, Ahmed Alkhateeb</sub><br>
-![IEEE ICC 2023](https://img.shields.io/badge/IEEE_ICC-2023-475569?style=flat-square)
+<img align="right" src="https://img.shields.io/badge/IEEE_ICC-2023-475569?style=flat-square" alt="IEEE ICC 2023"><sub>João Morais, Arash Behboodi, Hamed Pezeshki, Ahmed Alkhateeb</sub>
 
 </td>
 <td valign="top">
