@@ -54,13 +54,14 @@ Hi! 👋 I am a Senior Software Engineer at NVIDIA, currently working on the [Ae
 ### 🐍 [Aerial Python Ecosystem](https://developer.nvidia.com/aerial)
 ![Current](https://img.shields.io/badge/Current-76B900?style=flat-square)
 
-</div>
+The Python layer for NVIDIA Aerial, from simulation to AI.
 
-- Writing the reference implementation
-- Unifying link-level and system-level simulation
-- Designing in-memory architecture
-- Python packaging and tooling
-- Designing interfaces for AI integration
+Writing the reference implementation · Unifying link-level & system-level simulation<br>
+Designing in-memory architecture · Python packaging & tooling · Designing interfaces for AI integration
+
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://developer.nvidia.com/aerial)
+
+</div>
 
 </td>
 </tr>
@@ -77,7 +78,7 @@ Hi! 👋 I am a Senior Software Engineer at NVIDIA, currently working on the [Ae
 
 A toolchain for GPU-accelerated, μs-level pipelines from Python.
 
-- PUSCH 5G Python reference implementation
+- PUSCH 5G Python implementation
 - Tutorials, docs, diagrams & figures
 - Agentic CUDA plugins for TensorRT
 
@@ -123,7 +124,7 @@ The standard for ray-tracing datasets in wireless.
 
 A real-world multi-modal sensing & communication dataset.
 
-- End-to-end capture & synchronization
+- End-to-end capture & processing
 - High-performance UI (40+ videos)
 - Built the testbed; collected V2V data
 
