@@ -155,7 +155,7 @@ Built testbed & collected V2V data
 <td valign="top">
 
 [📄 PDF](https://arxiv.org/pdf/2205.09054)&nbsp; [📜 arXiv](https://arxiv.org/abs/2205.09054)<br>
-[💻 Code](https://github.com/jmoraispk/Position-Beam-Prediction)
+[💻 Code](https://github.com/jmoraispk/Position-Beam-Prediction)&nbsp; [🎬 Video](https://www.youtube.com/watch?v=qXBLXhLJVLU)
 
 </td>
 </tr>
