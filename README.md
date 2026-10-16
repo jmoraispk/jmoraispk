@@ -133,14 +133,18 @@ A real-world multi-modal sensing & communication dataset.
 
 <table>
 <tr>
-<td valign="top" width="70%">
+<th align="left" width="82%">Publication</th>
+<th align="left" width="18%">Links</th>
+</tr>
+<tr>
+<td valign="top">
 
 **[Comparing Stochastic and Ray-tracing Datasets in Machine Learning for Wireless Applications](https://arxiv.org/abs/2512.12449)**<br>
 <sub>João Morais, Akshay Malhotra, Shahab Hamidi-Rad, Ahmed Alkhateeb</sub><br>
 ![Asilomar 2025](https://img.shields.io/badge/Asilomar-2025-475569?style=flat-square)
 
 </td>
-<td valign="top" width="30%">
+<td valign="top">
 
 [PDF](https://arxiv.org/pdf/2512.12449) · [arXiv](https://arxiv.org/abs/2512.12449) · [Code](https://github.com/jmoraispk/StochasticRTcomparison) · [Video](https://youtu.be/vhJFnX2OcNk)
 
