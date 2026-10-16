@@ -29,7 +29,7 @@ The Python layer for NVIDIA Aerial, from simulation to AI.
 
 Writing the reference implementation · Unifying link-level & system-level simulation<br>
 Designing in-memory architecture · Python packaging & tooling · Designing interfaces for AI integration
-<img width="820" height="0">
+<img width="820" height="0" align="left">
 
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://developer.nvidia.com/aerial)
 
