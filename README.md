@@ -99,19 +99,20 @@ Built testbed & collected V2V data
 
 <table>
 <tr>
-<th align="left" width="82%">Publication</th>
-<th align="left" width="18%">Links</th>
+<th align="left" width="80%">Publication</th>
+<th align="left" width="20%">Links</th>
 </tr>
 <tr>
 <td valign="top">
 
-**[Comparing Stochastic and Ray-tracing Datasets in Machine Learning for Wireless Applications](https://arxiv.org/abs/2512.12449)**<img width="0" height="27" align="top"><br>
+**[Comparing Stochastic and Ray-tracing Datasets in Machine Learning for Wireless Applications](https://arxiv.org/abs/2512.12449)**<img src="assets/spacer.svg" align="top" alt=""><br>
 <img align="right" src="https://img.shields.io/badge/Asilomar-2025-475569?style=flat-square" alt="Asilomar 2025">João Morais, Akshay Malhotra, Shahab Hamidi-Rad, Ahmed Alkhateeb
 
 </td>
 <td valign="top">
 
-[📄 PDF](https://arxiv.org/pdf/2512.12449) · [📜 arXiv](https://arxiv.org/abs/2512.12449) · [💻 Code](https://github.com/jmoraispk/StochasticRTcomparison) · [🎬 Video](https://youtu.be/vhJFnX2OcNk)
+[📄 PDF](https://arxiv.org/pdf/2512.12449) · [📜 arXiv](https://arxiv.org/abs/2512.12449)<br>
+[💻 Code](https://github.com/jmoraispk/StochasticRTcomparison) · [🎬 Video](https://youtu.be/vhJFnX2OcNk)
 
 </td>
 </tr>
@@ -119,13 +120,14 @@ Built testbed & collected V2V data
 <tr>
 <td valign="top">
 
-**[DeepSense-V2V: A Vehicle-to-Vehicle Multi-Modal Sensing, Localization, and Communications Dataset](https://www.deepsense6g.net/scenarios36-39/)**<img width="0" height="27" align="top"><br>
+**[DeepSense-V2V: A Vehicle-to-Vehicle Multi-Modal Sensing, Localization, and Communications Dataset](https://www.deepsense6g.net/scenarios36-39/)**<img src="assets/spacer.svg" align="top" alt=""><br>
 <img align="right" src="https://img.shields.io/badge/IEEE_TVT-2024-475569?style=flat-square" alt="IEEE TVT 2024">João Morais, Gouranga Charan, Nikhil Srinivas, Ahmed Alkhateeb
 
 </td>
 <td valign="top">
 
-[📄 PDF](https://arxiv.org/pdf/2406.17908) · [📜 arXiv](https://arxiv.org/abs/2406.17908) · [🌐 Project](https://www.deepsense6g.net/scenarios36-39/)
+[📄 PDF](https://arxiv.org/pdf/2406.17908) · [📜 arXiv](https://arxiv.org/abs/2406.17908)<br>
+[🌐 Project](https://www.deepsense6g.net/scenarios36-39/)
 
 </td>
 </tr>
@@ -133,13 +135,15 @@ Built testbed & collected V2V data
 <tr>
 <td valign="top">
 
-**[Localization in Digital Twin MIMO Networks: A Case for Massive Fingerprinting](https://www.wi-lab.net/research/localization-digital-twins/)**<img width="0" height="27" align="top"><br>
+**[Localization in Digital Twin MIMO Networks: A Case for Massive Fingerprinting](https://www.wi-lab.net/research/localization-digital-twins/)**<img src="assets/spacer.svg" align="top" alt=""><br>
 <img align="right" src="https://img.shields.io/badge/IEEE_ICC-2024-475569?style=flat-square" alt="IEEE ICC 2024">João Morais, Ahmed Alkhateeb
 
 </td>
 <td valign="top">
 
-[📄 PDF](https://arxiv.org/pdf/2403.09614) · [📜 arXiv](https://arxiv.org/abs/2403.09614) · [💻 Code](https://github.com/jmoraispk/LocalizationDigitalTwins) · [🌐 Project](https://www.wi-lab.net/research/localization-digital-twins/) · [🎬 Video](https://youtu.be/WXJL37WqvNw)
+[📄 PDF](https://arxiv.org/pdf/2403.09614) · [📜 arXiv](https://arxiv.org/abs/2403.09614)<br>
+[💻 Code](https://github.com/jmoraispk/LocalizationDigitalTwins) · [🌐 Project](https://www.wi-lab.net/research/localization-digital-twins/)<br>
+[🎬 Video](https://youtu.be/WXJL37WqvNw)
 
 </td>
 </tr>
@@ -147,13 +151,14 @@ Built testbed & collected V2V data
 <tr>
 <td valign="top">
 
-**[Position Aided Beam Prediction in the Real World: How Useful GPS Locations Actually Are?](https://www.wi-lab.net/research/position-aided-prediction-paper-how-useful-gps-positions-actually-are/)**<img width="0" height="27" align="top"><br>
+**[Position Aided Beam Prediction in the Real World: How Useful GPS Locations Actually Are?](https://www.wi-lab.net/research/position-aided-prediction-paper-how-useful-gps-positions-actually-are/)**<img src="assets/spacer.svg" align="top" alt=""><br>
 <img align="right" src="https://img.shields.io/badge/IEEE_ICC-2023-475569?style=flat-square" alt="IEEE ICC 2023">João Morais, Arash Behboodi, Hamed Pezeshki, Ahmed Alkhateeb
 
 </td>
 <td valign="top">
 
-[📄 PDF](https://arxiv.org/pdf/2205.09054) · [📜 arXiv](https://arxiv.org/abs/2205.09054) · [💻 Code](https://github.com/jmoraispk/Position-Beam-Prediction) · [🌐 Project](https://www.wi-lab.net/research/position-aided-prediction-paper-how-useful-gps-positions-actually-are/)
+[📄 PDF](https://arxiv.org/pdf/2205.09054) · [📜 arXiv](https://arxiv.org/abs/2205.09054)<br>
+[💻 Code](https://github.com/jmoraispk/Position-Beam-Prediction) · [🌐 Project](https://www.wi-lab.net/research/position-aided-prediction-paper-how-useful-gps-positions-actually-are/)
 
 </td>
 </tr>
