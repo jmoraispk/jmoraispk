@@ -99,8 +99,8 @@ Built testbed & collected V2V data
 
 <table>
 <tr>
-<th align="left" width="80%">Publication</th>
-<th align="left" width="20%">Links</th>
+<th align="left" width="82%">Publication</th>
+<th align="left" width="18%">Links</th>
 </tr>
 <tr>
 <td valign="top">
@@ -111,8 +111,8 @@ Built testbed & collected V2V data
 </td>
 <td valign="top">
 
-[📄 PDF](https://arxiv.org/pdf/2512.12449) · [📜 arXiv](https://arxiv.org/abs/2512.12449)<br>
-[💻 Code](https://github.com/jmoraispk/StochasticRTcomparison) · [🎬 Video](https://youtu.be/vhJFnX2OcNk)
+[📄 PDF](https://arxiv.org/pdf/2512.12449)&nbsp; [📜 arXiv](https://arxiv.org/abs/2512.12449)<br>
+[💻 Code](https://github.com/jmoraispk/StochasticRTcomparison)&nbsp; [🎬 Video](https://youtu.be/vhJFnX2OcNk)
 
 </td>
 </tr>
@@ -126,7 +126,7 @@ Built testbed & collected V2V data
 </td>
 <td valign="top">
 
-[📄 PDF](https://arxiv.org/pdf/2406.17908) · [📜 arXiv](https://arxiv.org/abs/2406.17908)<br>
+[📄 PDF](https://arxiv.org/pdf/2406.17908)&nbsp; [📜 arXiv](https://arxiv.org/abs/2406.17908)<br>
 [🌐 Project](https://www.deepsense6g.net/scenarios36-39/)
 
 </td>
@@ -141,8 +141,8 @@ Built testbed & collected V2V data
 </td>
 <td valign="top">
 
-[📄 PDF](https://arxiv.org/pdf/2403.09614) · [📜 arXiv](https://arxiv.org/abs/2403.09614)<br>
-[💻 Code](https://github.com/jmoraispk/LocalizationDigitalTwins) · [🌐 Project](https://www.wi-lab.net/research/localization-digital-twins/)<br>
+[📄 PDF](https://arxiv.org/pdf/2403.09614)&nbsp; [📜 arXiv](https://arxiv.org/abs/2403.09614)<br>
+[💻 Code](https://github.com/jmoraispk/LocalizationDigitalTwins)&nbsp; [🌐 Project](https://www.wi-lab.net/research/localization-digital-twins/)<br>
 [🎬 Video](https://youtu.be/WXJL37WqvNw)
 
 </td>
@@ -157,8 +157,8 @@ Built testbed & collected V2V data
 </td>
 <td valign="top">
 
-[📄 PDF](https://arxiv.org/pdf/2205.09054) · [📜 arXiv](https://arxiv.org/abs/2205.09054)<br>
-[💻 Code](https://github.com/jmoraispk/Position-Beam-Prediction) · [🌐 Project](https://www.wi-lab.net/research/position-aided-prediction-paper-how-useful-gps-positions-actually-are/)
+[📄 PDF](https://arxiv.org/pdf/2205.09054)&nbsp; [📜 arXiv](https://arxiv.org/abs/2205.09054)<br>
+[💻 Code](https://github.com/jmoraispk/Position-Beam-Prediction)&nbsp; [🌐 Project](https://www.wi-lab.net/research/position-aided-prediction-paper-how-useful-gps-positions-actually-are/)
 
 </td>
 </tr>
