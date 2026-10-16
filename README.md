@@ -74,7 +74,7 @@ The standard for ray-tracing datasets in wireless.
 
 - Grew the scenario library 10×
 - Wrote v4 (latest) from scratch
-- Leading dev & design since 2024
+- Lead dev & design ([100+ features](https://deepmimo.net/docs/resources/capabilities/v3_vs_v4.html#deepmimo-v3-vs-v4-feature-comparison))
 
 <div align="center">
 
@@ -97,7 +97,7 @@ A real-world multi-modal sensing & communication dataset.
 
 - End-to-end capture & processing
 - High-performance UI (40+ videos)
-- Built the testbed; collected V2V data
+- Built testbed & collected V2V data
 
 <div align="center">
 
