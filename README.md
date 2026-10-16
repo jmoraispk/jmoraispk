@@ -106,7 +106,7 @@ Built testbed & collected V2V data
 <td valign="top">
 
 **[Comparing Stochastic and Ray-tracing Datasets in Machine Learning for Wireless Applications](https://arxiv.org/abs/2512.12449)**<br>
-<img align="right" src="https://img.shields.io/badge/Asilomar-2025-475569?style=flat-square" alt="Asilomar 2025">João Morais, Akshay Malhotra, Shahab Hamidi-Rad, Ahmed Alkhateeb
+<img align="right" vspace="3" src="https://img.shields.io/badge/Asilomar-2025-475569?style=flat-square" alt="Asilomar 2025">João Morais, Akshay Malhotra, Shahab Hamidi-Rad, Ahmed Alkhateeb
 
 </td>
 <td valign="top">
@@ -120,7 +120,7 @@ Built testbed & collected V2V data
 <td valign="top">
 
 **[DeepSense-V2V: A Vehicle-to-Vehicle Multi-Modal Sensing, Localization, and Communications Dataset](https://www.deepsense6g.net/scenarios36-39/)**<br>
-<img align="right" src="https://img.shields.io/badge/IEEE_TVT-2024-475569?style=flat-square" alt="IEEE TVT 2024">João Morais, Gouranga Charan, Nikhil Srinivas, Ahmed Alkhateeb
+<img align="right" vspace="3" src="https://img.shields.io/badge/IEEE_TVT-2024-475569?style=flat-square" alt="IEEE TVT 2024">João Morais, Gouranga Charan, Nikhil Srinivas, Ahmed Alkhateeb
 
 </td>
 <td valign="top">
@@ -134,7 +134,7 @@ Built testbed & collected V2V data
 <td valign="top">
 
 **[Localization in Digital Twin MIMO Networks: A Case for Massive Fingerprinting](https://www.wi-lab.net/research/localization-digital-twins/)**<br>
-<img align="right" src="https://img.shields.io/badge/IEEE_ICC-2024-475569?style=flat-square" alt="IEEE ICC 2024">João Morais, Ahmed Alkhateeb
+<img align="right" vspace="3" src="https://img.shields.io/badge/IEEE_ICC-2024-475569?style=flat-square" alt="IEEE ICC 2024">João Morais, Ahmed Alkhateeb
 
 </td>
 <td valign="top">
@@ -148,7 +148,7 @@ Built testbed & collected V2V data
 <td valign="top">
 
 **[Position Aided Beam Prediction in the Real World: How Useful GPS Locations Actually Are?](https://www.wi-lab.net/research/position-aided-prediction-paper-how-useful-gps-positions-actually-are/)**<br>
-<img align="right" src="https://img.shields.io/badge/IEEE_ICC-2023-475569?style=flat-square" alt="IEEE ICC 2023">João Morais, Arash Behboodi, Hamed Pezeshki, Ahmed Alkhateeb
+<img align="right" vspace="3" src="https://img.shields.io/badge/IEEE_ICC-2023-475569?style=flat-square" alt="IEEE ICC 2023">João Morais, Arash Behboodi, Hamed Pezeshki, Ahmed Alkhateeb
 
 </td>
 <td valign="top">
