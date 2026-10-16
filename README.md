@@ -99,8 +99,8 @@ Built testbed & collected V2V data
 
 <table>
 <tr>
-<th align="left" width="82%">Publication</th>
-<th align="left" width="18%">Links</th>
+<th align="left">Publication</th>
+<th align="left">Links</th>
 </tr>
 <tr>
 <td valign="top">
