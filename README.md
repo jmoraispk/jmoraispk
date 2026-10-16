@@ -6,15 +6,20 @@ Hi! 👋 I am a Senior Software Engineer at NVIDIA, currently working on the [Ae
 
 <table>
 <tr>
-<td valign="top"><img src="https://github-stats-extended.vercel.app/api?username=jmoraispk&show_icons=true&include_all_commits=true&theme=dark_github" alt="João's GitHub Stats" width="400"></td>
-<td valign="top"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jmoraispk&layout=compact&langs_count=8&theme=dark_github" alt="Top Languages" width="400"></td>
+<td align="center" valign="middle">
+
+[![Web](https://img.shields.io/badge/Website-joao.works-blue?style=for-the-badge)](https://jmoraispk.github.io/)
+
+[![Email](https://img.shields.io/badge/Email-joao@asu.edu-blue?style=for-the-badge)](mailto:joao@asu.edu)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmoraispk/)
+
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=U1wB3rsAAAAJ)
+
+</td>
+<td align="center" valign="middle"><img src="https://github-stats-extended.vercel.app/api?username=jmoraispk&show_icons=true&include_all_commits=true&theme=dark_github" alt="João's GitHub Stats" width="450"></td>
 </tr>
 </table>
-
-[![Web](https://img.shields.io/badge/Website-joao.works-blue?style=for-the-badge)](https://jmoraispk.github.io/) &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-joao@asu.edu-blue?style=for-the-badge)](mailto:joao@asu.edu) &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmoraispk/) &nbsp;&nbsp;
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=U1wB3rsAAAAJ)
 
 </div>
 
