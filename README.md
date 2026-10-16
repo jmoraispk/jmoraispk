@@ -45,11 +45,15 @@ Designing in-memory architecture · Python packaging & tooling · Designing inte
 ### 🛰️ [Aerial Framework](https://github.com/NVIDIA/aerial-framework)
 ![2025–2026](https://img.shields.io/badge/2025--2026-76B900?style=flat-square)
 
+</div>
+
 A toolchain for GPU-accelerated, μs-level pipelines from Python.
 
-PUSCH 5G Python implementation<br>
-Tutorials, docs, diagrams & figures<br>
-Agentic CUDA plugins for TensorRT
+- PUSCH 5G Python implementation
+- Tutorials, docs, diagrams & figures
+- Agentic CUDA plugins for TensorRT
+
+<div align="center">
 
 [![Code](https://img.shields.io/badge/Code-GitHub-purple?style=flat-square)](https://github.com/NVIDIA/aerial-framework) [![Docs](https://img.shields.io/badge/Docs-Visit-blue?style=flat-square)](https://docs.nvidia.com/aerial/framework/latest/)
 
@@ -64,11 +68,15 @@ Agentic CUDA plugins for TensorRT
 ### 🗺️ [DeepMIMO](https://www.deepmimo.net/)
 ![2024–2025](https://img.shields.io/badge/2024--2025-0A66C2?style=flat-square)
 
+</div>
+
 The standard for ray-tracing datasets in wireless.
 
-Grew the scenario library 10×<br>
-Wrote v4 (latest) from scratch<br>
-Lead dev & design ([100+ features](https://deepmimo.net/docs/resources/capabilities/v3_vs_v4.html#deepmimo-v3-vs-v4-feature-comparison))
+- Grew the scenario library 10×
+- Wrote v4 (latest) from scratch
+- Lead dev & design ([100+ features](https://deepmimo.net/docs/resources/capabilities/v3_vs_v4.html#deepmimo-v3-vs-v4-feature-comparison))
+
+<div align="center">
 
 [![Code](https://img.shields.io/badge/Code-GitHub-purple?style=flat-square)](https://github.com/deepmimo) [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://www.deepmimo.net/)
 
@@ -83,11 +91,15 @@ Lead dev & design ([100+ features](https://deepmimo.net/docs/resources/capabilit
 ### 🚗 [DeepSense6G](https://www.deepsense6g.net/)
 ![2021–2024](https://img.shields.io/badge/2021--2024-E8590C?style=flat-square)
 
+</div>
+
 A real-world multi-modal sensing & communication dataset.
 
-End-to-end capture & processing<br>
-High-performance UI (40+ videos)<br>
-Built testbed & collected V2V data
+- End-to-end capture & processing
+- High-performance UI (40+ videos)
+- Built testbed & collected V2V data
+
+<div align="center">
 
 [![Code](https://img.shields.io/badge/Code-GitHub-purple?style=flat-square)](https://github.com/DeepSense6G) [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://www.deepsense6g.net/)
 
