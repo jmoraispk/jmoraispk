@@ -1,6 +1,6 @@
 # João Morais
 
-Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless Intelligence Lab](https://wi-lab.net/). I'm currently working on [Aerial Framework](https://github.com/NVIDIA/aerial-framework) towards enabling 6G development and efficient OTA deployments to GPUs. 
+Hi! 👋 I am a Senior Software Engineer at NVIDIA, currently working on the [Aerial Python Ecosystem](https://github.com/NVIDIA/aerial-framework). Previously, I was a PhD student at the [Wireless Intelligence Lab](https://wi-lab.net/). My research interests lie at the intersection of Digital Twins, Localization and Radio Resource Management.
 
 <div align="center">
 
