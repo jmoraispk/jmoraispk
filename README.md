@@ -1,11 +1,15 @@
 # João Morais
 
-Hi! 👋 I am a Senior Software Engineer at NVIDIA, currently working on the [Aerial Python Ecosystem](https://github.com/NVIDIA/aerial-framework). Previously, I was a PhD student at the [Wireless Intelligence Lab](https://wi-lab.net/). My research interests lie at the intersection of Digital Twins, Localization and Radio Resource Management.
+Hi! 👋 I am a Senior Software Engineer at NVIDIA, currently working on the [Aerial Python Ecosystem](https://developer.nvidia.com/aerial). Previously, I was a PhD student at the [Wireless Intelligence Lab](https://wi-lab.net/). My research interests lie at the intersection of Digital Twins, Localization and Radio Resource Management.
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=jmoraispk&show_icons=true&include_all_commits=true&theme=dark_github" alt="João's GitHub Stats" width="450">
-<br>
+<table>
+<tr>
+<td valign="top"><img src="https://github-stats-extended.vercel.app/api?username=jmoraispk&show_icons=true&include_all_commits=true&theme=dark_github" alt="João's GitHub Stats" width="400"></td>
+<td valign="top"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jmoraispk&layout=compact&langs_count=8&theme=dark_github" alt="Top Languages" width="400"></td>
+</tr>
+</table>
 
 [![Web](https://img.shields.io/badge/Website-joao.works-blue?style=for-the-badge)](https://jmoraispk.github.io/) &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-joao@asu.edu-blue?style=for-the-badge)](mailto:joao@asu.edu) &nbsp;&nbsp;
