@@ -45,48 +45,89 @@ Hi! 👋 I am an software engineer at NVIDIA, and former PhD from the [Wireless 
 
 ## 🔧 Wireless Projects
 
-- **[2025-2026]** [Aerial Framework](https://github.com/NVIDIA/aerial-framework): A toolchain for GPU-accelerated, μs-level pipelines from Python.
-  - PUSCH 5G Python reference
-  - Tutorials, documentation, diagrams and figures design
-  - Agentic workflows for CUDA plugins for TensorRT
-  
-  [![Code](https://img.shields.io/badge/Code-GitHub-purple)](https://github.com/NVIDIA/aerial-framework) [![Docs](https://img.shields.io/badge/Docs-Visit-blue)](https://docs.nvidia.com/aerial/framework/latest/)
+<table>
+<tr>
 
-- **[2024-2025]** [DeepMIMO](https://www.deepmimo.net/): The standard for ray tracing datasets in wireless.
-  - Expanded the scope 10x
-  - Wrote version 4 (current) from scratch
-  - Leading development & website design since Nov 2024
-  
-  [![Code](https://img.shields.io/badge/Code-GitHub-purple)](https://github.com/deepmimo) [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://www.deepmimo.net/)
+<td valign="top" width="33%">
 
-- **[2021-2024]** [DeepSense6G](https://www.deepsense6g.net/): A real-world multi-modal sensing and communication dataset.
-  - Wrote the end-to-end software package: sensor capture, post-processing and synchronization
-  - Made a high-performance UI for data analysis and visualization - used to make +40 scenario videos
-  - Built the hardware testbed and collected scenarios 36-39 (Vehicle-to-Vehicle) and 41 (Distributed Sensing)
-  
-  [![Code](https://img.shields.io/badge/Code-GitHub-purple)](https://github.com/DeepSense6G) [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://www.deepsense6g.net/)
+<div align="center">
+
+### 🛰️ [Aerial Framework](https://github.com/NVIDIA/aerial-framework)
+![2025–2026](https://img.shields.io/badge/2025--2026-76B900?style=flat-square)
+
+</div>
+
+A toolchain for GPU-accelerated, μs-level pipelines from Python.
+
+- PUSCH 5G Python reference
+- Tutorials, docs, diagrams & figures
+- Agentic CUDA plugins for TensorRT
+
+<div align="center">
+
+[![Code](https://img.shields.io/badge/Code-GitHub-purple?style=flat-square)](https://github.com/NVIDIA/aerial-framework) [![Docs](https://img.shields.io/badge/Docs-Visit-blue?style=flat-square)](https://docs.nvidia.com/aerial/framework/latest/)
+
+</div>
+
+</td>
+
+<td valign="top" width="33%">
+
+<div align="center">
+
+### 🗺️ [DeepMIMO](https://www.deepmimo.net/)
+![2024–2025](https://img.shields.io/badge/2024--2025-0A66C2?style=flat-square)
+
+</div>
+
+The standard for ray-tracing datasets in wireless.
+
+- Expanded the scope 10×
+- Wrote version 4 (current) from scratch
+- Leading dev & web design since Nov 2024
+
+<div align="center">
+
+[![Code](https://img.shields.io/badge/Code-GitHub-purple?style=flat-square)](https://github.com/deepmimo) [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://www.deepmimo.net/)
+
+</div>
+
+</td>
+
+<td valign="top" width="33%">
+
+<div align="center">
+
+### 🚗 [DeepSense6G](https://www.deepsense6g.net/)
+![2021–2024](https://img.shields.io/badge/2021--2024-E8590C?style=flat-square)
+
+</div>
+
+A real-world multi-modal sensing & communication dataset.
+
+- End-to-end software: capture, post-processing & sync
+- High-performance UI → 40+ scenario videos
+- Built the HW testbed; collected V2V & distributed scenarios
+
+<div align="center">
+
+[![Code](https://img.shields.io/badge/Code-GitHub-purple?style=flat-square)](https://github.com/DeepSense6G) [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://www.deepsense6g.net/)
+
+</div>
+
+</td>
+
+</tr>
+</table>
 
 ## 📚 Selected Publications
 
-- **[Comparing Stochastic and Ray-tracing Datasets in Machine Learning for Wireless Applications](https://arxiv.org/abs/2512.12449)**  
-  *João Morais, Akshay Malhotra, Shahab Hamidi-Rad, and Ahmed Alkhateeb*  
-  IEEE Asilomar Conference on Signals, Systems, and Computers, 2025  
-  [PDF](https://arxiv.org/pdf/2512.12449) | [arXiv](https://arxiv.org/abs/2512.12449) | [GitHub](https://github.com/jmoraispk/StochasticRTcomparison) | [Video](https://youtu.be/vhJFnX2OcNk)
-
-- **[DeepSense-V2V: A Vehicle-to-Vehicle Multi-Modal Sensing, Localization, and Communications Dataset](https://www.deepsense6g.net/scenarios36-39/)**  
-  *João Morais, Gouranga Charan, Nikhil Srinivas, and Ahmed Alkhateeb*  
-  IEEE Transactions on Vehicular Technology (TVT), 2024  
-  [PDF](https://arxiv.org/pdf/2406.17908) | [arXiv](https://arxiv.org/abs/2406.17908) | [Project page](https://www.deepsense6g.net/scenarios36-39/)
-
-- **[Localization in Digital Twin MIMO Networks: A Case for Massive Fingerprinting](https://www.wi-lab.net/research/localization-digital-twins/)**  
-  *João Morais, Ahmed Alkhateeb*  
-  IEEE International Conference on Communications (ICC), 2024  
-  [PDF](https://arxiv.org/pdf/2403.09614) | [arXiv](https://arxiv.org/abs/2403.09614) | [GitHub](https://github.com/jmoraispk/LocalizationDigitalTwins) | [Project page](https://www.wi-lab.net/research/localization-digital-twins/) | [Video](https://youtu.be/WXJL37WqvNw)
-
-- **[Position Aided Beam Prediction in the Real World: How Useful GPS Locations Actually Are?](https://www.wi-lab.net/research/position-aided-prediction-paper-how-useful-gps-positions-actually-are/)**  
-  *João Morais, Arash Behboodi, Hamed Pezeshki, Ahmed Alkhateeb*  
-  IEEE International Conference on Communications (ICC), 2023  
-  [PDF](https://arxiv.org/pdf/2205.09054) | [arXiv](https://arxiv.org/abs/2205.09054) | [GitHub](https://github.com/jmoraispk/Position-Beam-Prediction) | [Project page](https://www.wi-lab.net/research/position-aided-prediction-paper-how-useful-gps-positions-actually-are/)
+| Publication | Links |
+|:---|:---|
+| **[Comparing Stochastic and Ray-tracing Datasets in Machine Learning for Wireless Applications](https://arxiv.org/abs/2512.12449)**<br><sub>João Morais, Akshay Malhotra, Shahab Hamidi-Rad, Ahmed Alkhateeb</sub><br>![Asilomar 2025](https://img.shields.io/badge/Asilomar-2025-475569?style=flat-square) | [PDF](https://arxiv.org/pdf/2512.12449) · [arXiv](https://arxiv.org/abs/2512.12449) · [Code](https://github.com/jmoraispk/StochasticRTcomparison) · [Video](https://youtu.be/vhJFnX2OcNk) |
+| **[DeepSense-V2V: A Vehicle-to-Vehicle Multi-Modal Sensing, Localization, and Communications Dataset](https://www.deepsense6g.net/scenarios36-39/)**<br><sub>João Morais, Gouranga Charan, Nikhil Srinivas, Ahmed Alkhateeb</sub><br>![IEEE TVT 2024](https://img.shields.io/badge/IEEE_TVT-2024-475569?style=flat-square) | [PDF](https://arxiv.org/pdf/2406.17908) · [arXiv](https://arxiv.org/abs/2406.17908) · [Project](https://www.deepsense6g.net/scenarios36-39/) |
+| **[Localization in Digital Twin MIMO Networks: A Case for Massive Fingerprinting](https://www.wi-lab.net/research/localization-digital-twins/)**<br><sub>João Morais, Ahmed Alkhateeb</sub><br>![IEEE ICC 2024](https://img.shields.io/badge/IEEE_ICC-2024-475569?style=flat-square) | [PDF](https://arxiv.org/pdf/2403.09614) · [arXiv](https://arxiv.org/abs/2403.09614) · [Code](https://github.com/jmoraispk/LocalizationDigitalTwins) · [Project](https://www.wi-lab.net/research/localization-digital-twins/) · [Video](https://youtu.be/WXJL37WqvNw) |
+| **[Position Aided Beam Prediction in the Real World: How Useful GPS Locations Actually Are?](https://www.wi-lab.net/research/position-aided-prediction-paper-how-useful-gps-positions-actually-are/)**<br><sub>João Morais, Arash Behboodi, Hamed Pezeshki, Ahmed Alkhateeb</sub><br>![IEEE ICC 2023](https://img.shields.io/badge/IEEE_ICC-2023-475569?style=flat-square) | [PDF](https://arxiv.org/pdf/2205.09054) · [arXiv](https://arxiv.org/abs/2205.09054) · [Code](https://github.com/jmoraispk/Position-Beam-Prediction) · [Project](https://www.wi-lab.net/research/position-aided-prediction-paper-how-useful-gps-positions-actually-are/) |
 
 ## 🚀 Side Projects
 
