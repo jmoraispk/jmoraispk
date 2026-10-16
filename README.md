@@ -22,7 +22,7 @@ Hi! 👋 I am a Senior Software Engineer at NVIDIA, currently working on the [Ae
 
 <div align="center">
 
-### 🐍 [Aerial Python Ecosystem](https://developer.nvidia.com/aerial)&nbsp;&nbsp;<img align="absmiddle" src="https://img.shields.io/badge/Current-76B900?style=flat-square" alt="Current">
+### <img src="assets/hgap.svg" width="32" alt="">🐍 [Aerial Python Ecosystem](https://developer.nvidia.com/aerial)&nbsp;&nbsp;<img align="absmiddle" src="https://img.shields.io/badge/Current-76B900?style=flat-square" alt="Current">
 
 The Python layer for NVIDIA Aerial, from simulation to AI.
 
@@ -42,7 +42,7 @@ Designing in-memory architecture · Python packaging & tooling · Designing inte
 
 <div align="center">
 
-### 🛰️ [Aerial Framework](https://github.com/NVIDIA/aerial-framework)
+### 🛰️ [Aerial Framework](https://github.com/NVIDIA/aerial-framework)<img src="assets/hgap.svg" width="29" alt="">
 ![2025–2026](https://img.shields.io/badge/2025--2026-76B900?style=flat-square)<br>
 A toolchain for GPU-accelerated,<br>μs-level pipelines from Python.
 
@@ -60,7 +60,7 @@ Agentic CUDA plugins for TensorRT
 
 <div align="center">
 
-### 🗺️ [DeepMIMO](https://www.deepmimo.net/)
+### 🗺️ [DeepMIMO](https://www.deepmimo.net/)<img src="assets/hgap.svg" width="29" alt="">
 ![2024–2025](https://img.shields.io/badge/2024--2025-0A66C2?style=flat-square)<br>
 The standard for ray-tracing<br>datasets in wireless.
 
@@ -78,7 +78,7 @@ Lead dev & design ([100+ features](https://deepmimo.net/docs/resources/capabilit
 
 <div align="center">
 
-### 🚗 [DeepSense6G](https://www.deepsense6g.net/)
+### 🚗 [DeepSense6G](https://www.deepsense6g.net/)<img src="assets/hgap.svg" width="29" alt="">
 ![2021–2024](https://img.shields.io/badge/2021--2024-E8590C?style=flat-square)<br>
 A real-world multi-modal<br>sensing & communication dataset.
 
@@ -126,8 +126,7 @@ Built testbed & collected V2V data
 </td>
 <td valign="top">
 
-[📄 PDF](https://arxiv.org/pdf/2406.17908)&nbsp; [📜 arXiv](https://arxiv.org/abs/2406.17908)<br>
-[🌐 Project](https://www.deepsense6g.net/scenarios36-39/)
+[📄 PDF](https://arxiv.org/pdf/2406.17908)&nbsp; [📜 arXiv](https://arxiv.org/abs/2406.17908)
 
 </td>
 </tr>
@@ -142,8 +141,7 @@ Built testbed & collected V2V data
 <td valign="top">
 
 [📄 PDF](https://arxiv.org/pdf/2403.09614)&nbsp; [📜 arXiv](https://arxiv.org/abs/2403.09614)<br>
-[💻 Code](https://github.com/jmoraispk/LocalizationDigitalTwins)&nbsp; [🌐 Project](https://www.wi-lab.net/research/localization-digital-twins/)<br>
-[🎬 Video](https://youtu.be/WXJL37WqvNw)
+[💻 Code](https://github.com/jmoraispk/LocalizationDigitalTwins)&nbsp; [🎬 Video](https://youtu.be/WXJL37WqvNw)
 
 </td>
 </tr>
@@ -158,7 +156,7 @@ Built testbed & collected V2V data
 <td valign="top">
 
 [📄 PDF](https://arxiv.org/pdf/2205.09054)&nbsp; [📜 arXiv](https://arxiv.org/abs/2205.09054)<br>
-[💻 Code](https://github.com/jmoraispk/Position-Beam-Prediction)&nbsp; [🌐 Project](https://www.wi-lab.net/research/position-aided-prediction-paper-how-useful-gps-positions-actually-are/)
+[💻 Code](https://github.com/jmoraispk/Position-Beam-Prediction)
 
 </td>
 </tr>
