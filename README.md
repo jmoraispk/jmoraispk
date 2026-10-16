@@ -4,7 +4,7 @@ Hi! 👋 I am a Senior Software Engineer at NVIDIA, currently working on the [Ae
 
 <div align="center">
 
-<img src="https://github-readme-stats-lic9.vercel.app/api?username=jmoraispk&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="João's GitHub Stats" width="450">
+<img src="https://github-stats-extended.vercel.app/api?username=jmoraispk&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="João's GitHub Stats" width="450">
 <br>
 
 [![Web](https://img.shields.io/badge/Website-joao.works-blue?style=for-the-badge)](https://jmoraispk.github.io/) &nbsp;&nbsp;
@@ -59,7 +59,7 @@ Hi! 👋 I am a Senior Software Engineer at NVIDIA, currently working on the [Ae
 
 A toolchain for GPU-accelerated, μs-level pipelines from Python.
 
-- PUSCH 5G Python reference
+- PUSCH 5G Python reference implementation
 - Tutorials, docs, diagrams & figures
 - Agentic CUDA plugins for TensorRT
 
@@ -105,9 +105,9 @@ The standard for ray-tracing datasets in wireless.
 
 A real-world multi-modal sensing & communication dataset.
 
-- End-to-end software: capture, post-processing & sync
-- High-performance UI → 40+ scenario videos
-- Built the HW testbed; collected V2V & distributed scenarios
+- End-to-end capture, processing & sync
+- High-performance UI (40+ scenario videos)
+- Built the testbed; collected V2V scenarios
 
 <div align="center">
 
@@ -122,12 +122,67 @@ A real-world multi-modal sensing & communication dataset.
 
 ## 📚 Selected Publications
 
-| Publication | Links |
-|:---|:---|
-| **[Comparing Stochastic and Ray-tracing Datasets in Machine Learning for Wireless Applications](https://arxiv.org/abs/2512.12449)**<br><sub>João Morais, Akshay Malhotra, Shahab Hamidi-Rad, Ahmed Alkhateeb</sub><br>![Asilomar 2025](https://img.shields.io/badge/Asilomar-2025-475569?style=flat-square) | [PDF](https://arxiv.org/pdf/2512.12449) · [arXiv](https://arxiv.org/abs/2512.12449) · [Code](https://github.com/jmoraispk/StochasticRTcomparison) · [Video](https://youtu.be/vhJFnX2OcNk) |
-| **[DeepSense-V2V: A Vehicle-to-Vehicle Multi-Modal Sensing, Localization, and Communications Dataset](https://www.deepsense6g.net/scenarios36-39/)**<br><sub>João Morais, Gouranga Charan, Nikhil Srinivas, Ahmed Alkhateeb</sub><br>![IEEE TVT 2024](https://img.shields.io/badge/IEEE_TVT-2024-475569?style=flat-square) | [PDF](https://arxiv.org/pdf/2406.17908) · [arXiv](https://arxiv.org/abs/2406.17908) · [Project](https://www.deepsense6g.net/scenarios36-39/) |
-| **[Localization in Digital Twin MIMO Networks: A Case for Massive Fingerprinting](https://www.wi-lab.net/research/localization-digital-twins/)**<br><sub>João Morais, Ahmed Alkhateeb</sub><br>![IEEE ICC 2024](https://img.shields.io/badge/IEEE_ICC-2024-475569?style=flat-square) | [PDF](https://arxiv.org/pdf/2403.09614) · [arXiv](https://arxiv.org/abs/2403.09614) · [Code](https://github.com/jmoraispk/LocalizationDigitalTwins) · [Project](https://www.wi-lab.net/research/localization-digital-twins/) · [Video](https://youtu.be/WXJL37WqvNw) |
-| **[Position Aided Beam Prediction in the Real World: How Useful GPS Locations Actually Are?](https://www.wi-lab.net/research/position-aided-prediction-paper-how-useful-gps-positions-actually-are/)**<br><sub>João Morais, Arash Behboodi, Hamed Pezeshki, Ahmed Alkhateeb</sub><br>![IEEE ICC 2023](https://img.shields.io/badge/IEEE_ICC-2023-475569?style=flat-square) | [PDF](https://arxiv.org/pdf/2205.09054) · [arXiv](https://arxiv.org/abs/2205.09054) · [Code](https://github.com/jmoraispk/Position-Beam-Prediction) · [Project](https://www.wi-lab.net/research/position-aided-prediction-paper-how-useful-gps-positions-actually-are/) |
+<table>
+<tr>
+<td valign="top" width="70%">
+
+**[Comparing Stochastic and Ray-tracing Datasets in Machine Learning for Wireless Applications](https://arxiv.org/abs/2512.12449)**<br>
+<sub>João Morais, Akshay Malhotra, Shahab Hamidi-Rad, Ahmed Alkhateeb</sub><br>
+![Asilomar 2025](https://img.shields.io/badge/Asilomar-2025-475569?style=flat-square)
+
+</td>
+<td valign="top" width="30%">
+
+[PDF](https://arxiv.org/pdf/2512.12449) · [arXiv](https://arxiv.org/abs/2512.12449) · [Code](https://github.com/jmoraispk/StochasticRTcomparison) · [Video](https://youtu.be/vhJFnX2OcNk)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+**[DeepSense-V2V: A Vehicle-to-Vehicle Multi-Modal Sensing, Localization, and Communications Dataset](https://www.deepsense6g.net/scenarios36-39/)**<br>
+<sub>João Morais, Gouranga Charan, Nikhil Srinivas, Ahmed Alkhateeb</sub><br>
+![IEEE TVT 2024](https://img.shields.io/badge/IEEE_TVT-2024-475569?style=flat-square)
+
+</td>
+<td valign="top">
+
+[PDF](https://arxiv.org/pdf/2406.17908) · [arXiv](https://arxiv.org/abs/2406.17908) · [Project](https://www.deepsense6g.net/scenarios36-39/)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+**[Localization in Digital Twin MIMO Networks: A Case for Massive Fingerprinting](https://www.wi-lab.net/research/localization-digital-twins/)**<br>
+<sub>João Morais, Ahmed Alkhateeb</sub><br>
+![IEEE ICC 2024](https://img.shields.io/badge/IEEE_ICC-2024-475569?style=flat-square)
+
+</td>
+<td valign="top">
+
+[PDF](https://arxiv.org/pdf/2403.09614) · [arXiv](https://arxiv.org/abs/2403.09614) · [Code](https://github.com/jmoraispk/LocalizationDigitalTwins) · [Project](https://www.wi-lab.net/research/localization-digital-twins/) · [Video](https://youtu.be/WXJL37WqvNw)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+**[Position Aided Beam Prediction in the Real World: How Useful GPS Locations Actually Are?](https://www.wi-lab.net/research/position-aided-prediction-paper-how-useful-gps-positions-actually-are/)**<br>
+<sub>João Morais, Arash Behboodi, Hamed Pezeshki, Ahmed Alkhateeb</sub><br>
+![IEEE ICC 2023](https://img.shields.io/badge/IEEE_ICC-2023-475569?style=flat-square)
+
+</td>
+<td valign="top">
+
+[PDF](https://arxiv.org/pdf/2205.09054) · [arXiv](https://arxiv.org/abs/2205.09054) · [Code](https://github.com/jmoraispk/Position-Beam-Prediction) · [Project](https://www.wi-lab.net/research/position-aided-prediction-paper-how-useful-gps-positions-actually-are/)
+
+</td>
+</tr>
+</table>
 
 ## 🚀 Side Projects
 
