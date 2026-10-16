@@ -24,9 +24,7 @@ Hi! 👋 I am a Senior Software Engineer at NVIDIA, currently working on the [Ae
 
 ### <img src="assets/hgap.svg" width="32" alt="">🐍 [Aerial Python Ecosystem](https://developer.nvidia.com/aerial)&nbsp;&nbsp;<img align="absmiddle" src="https://img.shields.io/badge/Current-76B900?style=flat-square" alt="Current">
 
-The Python layer for NVIDIA Aerial, from simulation to AI.
-
-Writing the reference implementation · Unifying link-level & system-level simulation<br>
+The Python layer for NVIDIA Aerial, from simulation to AI · Unifying link-level & system-level simulation<br>
 Designing in-memory architecture · Python packaging & tooling · Designing interfaces for AI integration
 <img width="820" height="0" align="left">
 
