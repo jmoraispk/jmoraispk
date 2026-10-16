@@ -45,7 +45,8 @@ A toolchain for GPU-accelerated,<br>μs-level pipelines from Python.
 
 PUSCH 5G Python implementation<br>
 Tutorials, docs, diagrams & figures<br>
-Agentic CUDA plugins for TensorRT<br>
+Agentic CUDA plugins for TensorRT
+
 [![Code](https://img.shields.io/badge/Code-GitHub-purple?style=flat-square)](https://github.com/NVIDIA/aerial-framework) [![Docs](https://img.shields.io/badge/Docs-Visit-blue?style=flat-square)](https://docs.nvidia.com/aerial/framework/latest/)
 
 </div>
@@ -62,7 +63,8 @@ The standard for ray-tracing<br>datasets in wireless.
 
 Grew the scenario library 10×<br>
 Wrote v4 (latest) from scratch<br>
-Lead dev & design ([100+ features](https://deepmimo.net/docs/resources/capabilities/v3_vs_v4.html#deepmimo-v3-vs-v4-feature-comparison))<br>
+Lead dev & design ([100+ features](https://deepmimo.net/docs/resources/capabilities/v3_vs_v4.html#deepmimo-v3-vs-v4-feature-comparison))
+
 [![Code](https://img.shields.io/badge/Code-GitHub-purple?style=flat-square)](https://github.com/deepmimo) [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://www.deepmimo.net/)
 
 </div>
@@ -79,7 +81,8 @@ A real-world multi-modal<br>sensing & communication dataset.
 
 End-to-end capture & processing<br>
 High-performance UI (40+ videos)<br>
-Built testbed & collected V2V data<br>
+Built testbed & collected V2V data
+
 [![Code](https://img.shields.io/badge/Code-GitHub-purple?style=flat-square)](https://github.com/DeepSense6G) [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://www.deepsense6g.net/)
 
 </div>
