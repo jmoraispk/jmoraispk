@@ -125,7 +125,7 @@ Built testbed & collected V2V data
 <td valign="top">
 
 [📄 PDF](https://arxiv.org/pdf/2406.17908)&nbsp; [📜 arXiv](https://arxiv.org/abs/2406.17908)<br>
-[🎬 Video](https://www.youtube.com/@deepsense6g)
+[💻 Code](https://github.com/DeepSense6G)&nbsp; [🎬 Video](https://www.youtube.com/@deepsense6g)
 
 </td>
 </tr>
