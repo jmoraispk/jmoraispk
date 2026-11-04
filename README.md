@@ -168,7 +168,7 @@ Built testbed & collected V2V data
 | Started | Project | Description |
 |---------|---------|-------------|
 | Nov 2026 | [video2slides](https://github.com/jmoraispk/video2slides) | Extract unique slides from presentation videos as PNGs and a PDF |
-| Oct 2026 | [MR.PR](https://github.com/jmoraispk/mrpr) ([site](https://mrpr-delta.vercel.app)) | A static website to triage and review GitLab merge requests |
+| Oct 2026 | [MR.PR](https://github.com/jmoraispk/mrpr) ([site](https://mrpr-delta.vercel.app)) | A static web inbox to triage and review GitLab merge requests |
 | Sep 2026 | [CodeAway2](https://github.com/jmoraispk/codeaway2) | Thin phone interface for local AI coding agents over Tailscale |
 | Aug 2026 | [DayTrace](https://github.com/jmoraispk/daytrace) ([PyPI](https://pypi.org/project/daytrace/), [npm](https://www.npmjs.com/package/@jmoraispk/daytrace)) | LLM summaries from ActivityWatch data |
 | Aug 2026 | [SummonLab](https://github.com/jmoraispk/summonlab) ([site](https://summonlab.ai)) | A gacha game where every hero is an agent - personality rolls, human-like choices. |
