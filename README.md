@@ -167,6 +167,7 @@ Built testbed & collected V2V data
 
 | Started | Project | Description |
 |---------|---------|-------------|
+| Nov 2026 | [Dripbook](https://github.com/jmoraispk/dripbook) ([site](https://dripbook.ai)) | Read your favorite books in daily emails |
 | Nov 2026 | [video2slides](https://github.com/jmoraispk/video2slides) | Extract unique slides from presentation videos as PNGs and a PDF |
 | Oct 2026 | [MR.PR](https://github.com/jmoraispk/mrpr) ([site](https://mrpr-delta.vercel.app)) | A static web inbox to triage and review GitLab merge requests |
 | Sep 2026 | [CodeAway2](https://github.com/jmoraispk/codeaway2) | Thin phone interface for local AI coding agents over Tailscale |
